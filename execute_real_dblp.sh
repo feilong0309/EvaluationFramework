@@ -1,0 +1,7 @@
+python combined_developing_real_graph.py -n 317080 --mu 0.4 -m generate sample cluster measure visualize -s 1 -e 1 -t 1 -sr 0.15 -delta 0.8 0.9 1.0  -sac induced_random_edge
+python combined_developing_real_graph.py -n 317080 --mu 0.4 -m generate sample cluster measure visualize -s 1 -e 1 -t 1 -sr 0.3 -delta 0.8 0.9 1.0  -sac induced_random_edge
+python combined_developing_real_graph.py -n 317080 --mu 0.5 -m generate sample cluster measure visualize -s 1 -e 1 -t 1 -sr 0.15 -delta 0.8 0.9 1.0  -sac induced_random_edge
+python combined_developing_real_graph.py -n 317080 --mu 0.5 -m generate sample cluster measure visualize -s 1 -e 1 -t 1 -sr 0.3 -delta 0.8 0.9 1.0  -sac induced_random_edge
+python combined_developing_real_graph.py -n 317080 --mu 0.5 -m generate sample cluster measure visualize -s 1 -e 1 -t 1 -sr 0.4 -delta 0.8 0.9 1.0  -sac induced_random_edge
+python combined_developing_real_graph.py -n 317080 --mu 0.5 -m generate sample cluster measure visualize -s 1 -e 1 -t 1 -sr 0.5 -delta 0.8 0.9 1.0  -sac induced_random_edge
+python combined_developing_real_graph.py -n 1134890 --mu 0.2 -m generate sample cluster measure visualize -s 1 -e 1 -t 1 -sr 0.15 -delta 0.8 0.9 1.0  -sac induced_random_edge
