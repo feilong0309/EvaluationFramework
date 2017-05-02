@@ -8,11 +8,11 @@ Installation
 
 The environment:
 ============
-Python 2.7 and the scientific programming libraries listed below in the Dependencies section. By the way,Our implemention is inherited from the work done by Scott 
+Python 2.7 and the scientific programming libraries listed below in the Dependencies section. By the way,our implemention is inherited from 
 https://github.com/scottemmons/STHClusterAnalysis.
 
 
-The environment:
+The main function:
 ============
 This repository contains files which each correspond to a core function.
    - generate.py generates synthetic networks to be used as benchmarks for cluster analysis
