@@ -1,0 +1,2331 @@
+name,metric,cluster_num,value,n,network_id,clustering_id
+gold_standard,Modularity,Entire Graph,0.3804,10000,1,1
+gold_standard,Coverage,Entire Graph,0.4445,10000,1,1
+gold_standard,Conductance,Entire Graph,0.2399,10000,1,1
+gold_standard,Modularity,Entire Graph,0.3817,10000,2,1
+gold_standard,Coverage,Entire Graph,0.4484,10000,2,1
+gold_standard,Conductance,Entire Graph,0.2506,10000,2,1
+blondel,Modularity,Entire Graph,0.3808,10000,1,1
+blondel,Coverage,Entire Graph,0.4464,10000,1,1
+blondel,Conductance,Entire Graph,0.2422,10000,1,1
+blondel,Modularity,Entire Graph,0.3808,10000,1,2
+blondel,Coverage,Entire Graph,0.4464,10000,1,2
+blondel,Conductance,Entire Graph,0.2422,10000,1,2
+blondel,Modularity,Entire Graph,0.3816,10000,2,1
+blondel,Coverage,Entire Graph,0.4500,10000,2,1
+blondel,Conductance,Entire Graph,0.2525,10000,2,1
+blondel,Modularity,Entire Graph,0.3816,10000,2,2
+blondel,Coverage,Entire Graph,0.4500,10000,2,2
+blondel,Conductance,Entire Graph,0.2525,10000,2,2
+blondel,0.5_precision,Entire Graph,0.9721153301667361,10000,1,1
+blondel,0.5_recall,Entire Graph,0.1737028335055711,10000,1,1
+blondel,0.6_precision,Entire Graph,0.9721153301667361,10000,1,1
+blondel,0.6_recall,Entire Graph,0.1737028335055711,10000,1,1
+blondel,0.7_precision,Entire Graph,0.9721153301667361,10000,1,1
+blondel,0.7_recall,Entire Graph,0.1737028335055711,10000,1,1
+blondel,0.8_precision,Entire Graph,0.9519339242710446,10000,1,1
+blondel,0.8_recall,Entire Graph,0.168574628377366,10000,1,1
+blondel,0.9_precision,Entire Graph,0.9262484985856189,10000,1,1
+blondel,0.9_recall,Entire Graph,0.16384988452218735,10000,1,1
+blondel,1.0_precision,Entire Graph,0.42857142857142855,10000,1,1
+blondel,1.0_recall,Entire Graph,0.06924717982687002,10000,1,1
+blondel,NLS,Entire Graph,0.81565107999176922,10000,1,1
+blondel,Block_size_median,Entire Graph,30.0,10000,1,1
+blondel,Sample_block_num,Entire Graph,35,10000,1,1
+blondel,Original_block_num,Entire Graph,39,10000,1,1
+blondel,ANC,Entire Graph,0.8974358974358975,10000,1,1
+blondel,Scikit-learn NMI,Entire Graph,0.96242894272997337,10000,1,1
+blondel,Adjusted Rand Score,Entire Graph,0.9454174638769723,10000,1,1
+blondel,Lancichinetti NMI,Entire Graph,0.83597,10000,1,1
+blondel,0.5_precision,Entire Graph,0.9721153301667361,10000,1,2
+blondel,0.5_recall,Entire Graph,0.1737028335055711,10000,1,2
+blondel,0.6_precision,Entire Graph,0.9721153301667361,10000,1,2
+blondel,0.6_recall,Entire Graph,0.1737028335055711,10000,1,2
+blondel,0.7_precision,Entire Graph,0.9721153301667361,10000,1,2
+blondel,0.7_recall,Entire Graph,0.1737028335055711,10000,1,2
+blondel,0.8_precision,Entire Graph,0.9519339242710446,10000,1,2
+blondel,0.8_recall,Entire Graph,0.168574628377366,10000,1,2
+blondel,0.9_precision,Entire Graph,0.9262484985856189,10000,1,2
+blondel,0.9_recall,Entire Graph,0.16384988452218735,10000,1,2
+blondel,1.0_precision,Entire Graph,0.42857142857142855,10000,1,2
+blondel,1.0_recall,Entire Graph,0.06924717982687002,10000,1,2
+blondel,NLS,Entire Graph,0.81565107999176922,10000,1,2
+blondel,Block_size_median,Entire Graph,30.0,10000,1,2
+blondel,Sample_block_num,Entire Graph,35,10000,1,2
+blondel,Original_block_num,Entire Graph,39,10000,1,2
+blondel,ANC,Entire Graph,0.8974358974358975,10000,1,2
+blondel,Scikit-learn NMI,Entire Graph,0.96242894272997337,10000,1,2
+blondel,Adjusted Rand Score,Entire Graph,0.9454174638769723,10000,1,2
+blondel,Lancichinetti NMI,Entire Graph,0.83597,10000,1,2
+blondel,0.5_precision,Entire Graph,0.9759732013652237,10000,2,1
+blondel,0.5_recall,Entire Graph,0.17877723273825993,10000,2,1
+blondel,0.6_precision,Entire Graph,0.9759732013652237,10000,2,1
+blondel,0.6_recall,Entire Graph,0.17877723273825993,10000,2,1
+blondel,0.7_precision,Entire Graph,0.9759732013652237,10000,2,1
+blondel,0.7_recall,Entire Graph,0.17877723273825993,10000,2,1
+blondel,0.8_precision,Entire Graph,0.9482584117456722,10000,2,1
+blondel,0.8_recall,Entire Graph,0.17181740989738678,10000,2,1
+blondel,0.9_precision,Entire Graph,0.9482584117456722,10000,2,1
+blondel,0.9_recall,Entire Graph,0.17181740989738678,10000,2,1
+blondel,1.0_precision,Entire Graph,0.5185185185185185,10000,2,1
+blondel,1.0_recall,Entire Graph,0.09069258568833252,10000,2,1
+blondel,NLS,Entire Graph,0.87216285801890014,10000,2,1
+blondel,Block_size_median,Entire Graph,51.0,10000,2,1
+blondel,Sample_block_num,Entire Graph,27,10000,2,1
+blondel,Original_block_num,Entire Graph,29,10000,2,1
+blondel,ANC,Entire Graph,0.9310344827586207,10000,2,1
+blondel,Scikit-learn NMI,Entire Graph,0.97199215924716442,10000,2,1
+blondel,Adjusted Rand Score,Entire Graph,0.9578072512856469,10000,2,1
+blondel,Lancichinetti NMI,Entire Graph,0.902268,10000,2,1
+blondel,0.5_precision,Entire Graph,0.9759732013652237,10000,2,2
+blondel,0.5_recall,Entire Graph,0.17877723273825993,10000,2,2
+blondel,0.6_precision,Entire Graph,0.9759732013652237,10000,2,2
+blondel,0.6_recall,Entire Graph,0.17877723273825993,10000,2,2
+blondel,0.7_precision,Entire Graph,0.9759732013652237,10000,2,2
+blondel,0.7_recall,Entire Graph,0.17877723273825993,10000,2,2
+blondel,0.8_precision,Entire Graph,0.9482584117456722,10000,2,2
+blondel,0.8_recall,Entire Graph,0.17181740989738678,10000,2,2
+blondel,0.9_precision,Entire Graph,0.9482584117456722,10000,2,2
+blondel,0.9_recall,Entire Graph,0.17181740989738678,10000,2,2
+blondel,1.0_precision,Entire Graph,0.5185185185185185,10000,2,2
+blondel,1.0_recall,Entire Graph,0.09069258568833252,10000,2,2
+blondel,NLS,Entire Graph,0.87216285801890014,10000,2,2
+blondel,Block_size_median,Entire Graph,51.0,10000,2,2
+blondel,Sample_block_num,Entire Graph,27,10000,2,2
+blondel,Original_block_num,Entire Graph,29,10000,2,2
+blondel,ANC,Entire Graph,0.9310344827586207,10000,2,2
+blondel,Scikit-learn NMI,Entire Graph,0.97199215924716442,10000,2,2
+blondel,Adjusted Rand Score,Entire Graph,0.9578072512856469,10000,2,2
+blondel,Lancichinetti NMI,Entire Graph,0.902268,10000,2,2
+infomap,Modularity,Entire Graph,0.3807,10000,1,1
+infomap,Coverage,Entire Graph,0.4447,10000,1,1
+infomap,Conductance,Entire Graph,0.2410,10000,1,1
+infomap,Modularity,Entire Graph,0.3807,10000,1,2
+infomap,Coverage,Entire Graph,0.4447,10000,1,2
+infomap,Conductance,Entire Graph,0.2410,10000,1,2
+infomap,Modularity,Entire Graph,0.3817,10000,2,1
+infomap,Coverage,Entire Graph,0.4484,10000,2,1
+infomap,Conductance,Entire Graph,0.2459,10000,2,1
+infomap,Modularity,Entire Graph,0.3817,10000,2,2
+infomap,Coverage,Entire Graph,0.4484,10000,2,2
+infomap,Conductance,Entire Graph,0.2459,10000,2,2
+infomap,0.5_precision,Entire Graph,0.9924488645094625,10000,1,1
+infomap,0.5_recall,Entire Graph,0.19653719679767565,10000,1,1
+infomap,0.6_precision,Entire Graph,0.9924488645094625,10000,1,1
+infomap,0.6_recall,Entire Graph,0.19653719679767565,10000,1,1
+infomap,0.7_precision,Entire Graph,0.9924488645094625,10000,1,1
+infomap,0.7_recall,Entire Graph,0.19653719679767565,10000,1,1
+infomap,0.8_precision,Entire Graph,0.9924488645094625,10000,1,1
+infomap,0.8_recall,Entire Graph,0.19653719679767565,10000,1,1
+infomap,0.9_precision,Entire Graph,0.9924488645094625,10000,1,1
+infomap,0.9_recall,Entire Graph,0.19653719679767565,10000,1,1
+infomap,1.0_precision,Entire Graph,0.717948717948718,10000,1,1
+infomap,1.0_recall,Entire Graph,0.13685779677458454,10000,1,1
+infomap,NLS,Entire Graph,0.85747842691131737,10000,1,1
+infomap,Block_size_median,Entire Graph,27.0,10000,1,1
+infomap,Sample_block_num,Entire Graph,39,10000,1,1
+infomap,Original_block_num,Entire Graph,39,10000,1,1
+infomap,ANC,Entire Graph,1.0,10000,1,1
+infomap,Scikit-learn NMI,Entire Graph,0.98600399072314848,10000,1,1
+infomap,Adjusted Rand Score,Entire Graph,0.9843265101730805,10000,1,1
+infomap,Lancichinetti NMI,Entire Graph,0.943825,10000,1,1
+infomap,0.5_precision,Entire Graph,0.9924488645094625,10000,1,2
+infomap,0.5_recall,Entire Graph,0.19653719679767565,10000,1,2
+infomap,0.6_precision,Entire Graph,0.9924488645094625,10000,1,2
+infomap,0.6_recall,Entire Graph,0.19653719679767565,10000,1,2
+infomap,0.7_precision,Entire Graph,0.9924488645094625,10000,1,2
+infomap,0.7_recall,Entire Graph,0.19653719679767565,10000,1,2
+infomap,0.8_precision,Entire Graph,0.9924488645094625,10000,1,2
+infomap,0.8_recall,Entire Graph,0.19653719679767565,10000,1,2
+infomap,0.9_precision,Entire Graph,0.9924488645094625,10000,1,2
+infomap,0.9_recall,Entire Graph,0.19653719679767565,10000,1,2
+infomap,1.0_precision,Entire Graph,0.717948717948718,10000,1,2
+infomap,1.0_recall,Entire Graph,0.13685779677458454,10000,1,2
+infomap,NLS,Entire Graph,0.85747842691131737,10000,1,2
+infomap,Block_size_median,Entire Graph,27.0,10000,1,2
+infomap,Sample_block_num,Entire Graph,39,10000,1,2
+infomap,Original_block_num,Entire Graph,39,10000,1,2
+infomap,ANC,Entire Graph,1.0,10000,1,2
+infomap,Scikit-learn NMI,Entire Graph,0.98600399072314848,10000,1,2
+infomap,Adjusted Rand Score,Entire Graph,0.9843265101730805,10000,1,2
+infomap,Lancichinetti NMI,Entire Graph,0.943825,10000,1,2
+infomap,0.5_precision,Entire Graph,0.9796150459326042,10000,2,1
+infomap,0.5_recall,Entire Graph,0.18830270217200878,10000,2,1
+infomap,0.6_precision,Entire Graph,0.9796150459326042,10000,2,1
+infomap,0.6_recall,Entire Graph,0.18830270217200878,10000,2,1
+infomap,0.7_precision,Entire Graph,0.9796150459326042,10000,2,1
+infomap,0.7_recall,Entire Graph,0.18830270217200878,10000,2,1
+infomap,0.8_precision,Entire Graph,0.9796150459326042,10000,2,1
+infomap,0.8_recall,Entire Graph,0.18830270217200878,10000,2,1
+infomap,0.9_precision,Entire Graph,0.9500583956862987,10000,2,1
+infomap,0.9_recall,Entire Graph,0.18542913895361798,10000,2,1
+infomap,1.0_precision,Entire Graph,0.4827586206896552,10000,2,1
+infomap,1.0_recall,Entire Graph,0.09426449693144849,10000,2,1
+infomap,NLS,Entire Graph,0.88627440421874892,10000,2,1
+infomap,Block_size_median,Entire Graph,42.0,10000,2,1
+infomap,Sample_block_num,Entire Graph,29,10000,2,1
+infomap,Original_block_num,Entire Graph,29,10000,2,1
+infomap,ANC,Entire Graph,1.0,10000,2,1
+infomap,Scikit-learn NMI,Entire Graph,0.98168162768280787,10000,2,1
+infomap,Adjusted Rand Score,Entire Graph,0.9796331777269035,10000,2,1
+infomap,Lancichinetti NMI,Entire Graph,0.94512,10000,2,1
+infomap,0.5_precision,Entire Graph,0.9796150459326042,10000,2,2
+infomap,0.5_recall,Entire Graph,0.18830270217200878,10000,2,2
+infomap,0.6_precision,Entire Graph,0.9796150459326042,10000,2,2
+infomap,0.6_recall,Entire Graph,0.18830270217200878,10000,2,2
+infomap,0.7_precision,Entire Graph,0.9796150459326042,10000,2,2
+infomap,0.7_recall,Entire Graph,0.18830270217200878,10000,2,2
+infomap,0.8_precision,Entire Graph,0.9796150459326042,10000,2,2
+infomap,0.8_recall,Entire Graph,0.18830270217200878,10000,2,2
+infomap,0.9_precision,Entire Graph,0.9500583956862987,10000,2,2
+infomap,0.9_recall,Entire Graph,0.18542913895361798,10000,2,2
+infomap,1.0_precision,Entire Graph,0.4827586206896552,10000,2,2
+infomap,1.0_recall,Entire Graph,0.09426449693144849,10000,2,2
+infomap,NLS,Entire Graph,0.88627440421874892,10000,2,2
+infomap,Block_size_median,Entire Graph,42.0,10000,2,2
+infomap,Sample_block_num,Entire Graph,29,10000,2,2
+infomap,Original_block_num,Entire Graph,29,10000,2,2
+infomap,ANC,Entire Graph,1.0,10000,2,2
+infomap,Scikit-learn NMI,Entire Graph,0.98168162768280787,10000,2,2
+infomap,Adjusted Rand Score,Entire Graph,0.9796331777269035,10000,2,2
+infomap,Lancichinetti NMI,Entire Graph,0.94512,10000,2,2
+label_propagation,Modularity,Entire Graph,0.0000,10000,1,1
+label_propagation,Coverage,Entire Graph,1.0000,10000,1,1
+label_propagation,Conductance,Entire Graph,0.0,10000,1,1
+label_propagation,Modularity,Entire Graph,0.0000,10000,1,2
+label_propagation,Coverage,Entire Graph,1.0000,10000,1,2
+label_propagation,Conductance,Entire Graph,0.0,10000,1,2
+label_propagation,Modularity,Entire Graph,0.0000,10000,2,1
+label_propagation,Coverage,Entire Graph,1.0000,10000,2,1
+label_propagation,Conductance,Entire Graph,0.0,10000,2,1
+label_propagation,Modularity,Entire Graph,0.0000,10000,2,2
+label_propagation,Coverage,Entire Graph,1.0000,10000,2,2
+label_propagation,Conductance,Entire Graph,0.0,10000,2,2
+label_propagation,0.5_precision,Entire Graph,0.0,10000,1,1
+label_propagation,0.5_recall,Entire Graph,0.0,10000,1,1
+label_propagation,0.6_precision,Entire Graph,0.0,10000,1,1
+label_propagation,0.6_recall,Entire Graph,0.0,10000,1,1
+label_propagation,0.7_precision,Entire Graph,0.0,10000,1,1
+label_propagation,0.7_recall,Entire Graph,0.0,10000,1,1
+label_propagation,0.8_precision,Entire Graph,0.0,10000,1,1
+label_propagation,0.8_recall,Entire Graph,0.0,10000,1,1
+label_propagation,0.9_precision,Entire Graph,0.0,10000,1,1
+label_propagation,0.9_recall,Entire Graph,0.0,10000,1,1
+label_propagation,1.0_precision,Entire Graph,0.0,10000,1,1
+label_propagation,1.0_recall,Entire Graph,0.0,10000,1,1
+label_propagation,NLS,Entire Graph,0.87127504402606681,10000,1,1
+label_propagation,Block_size_median,Entire Graph,2000.0,10000,1,1
+label_propagation,Sample_block_num,Entire Graph,1,10000,1,1
+label_propagation,Original_block_num,Entire Graph,39,10000,1,1
+label_propagation,ANC,Entire Graph,0.02564102564102566,10000,1,1
+label_propagation,Scikit-learn NMI,Entire Graph,5.5511151231257827e-07,10000,1,1
+label_propagation,Adjusted Rand Score,Entire Graph,0.0,10000,1,1
+label_propagation,Lancichinetti NMI,Entire Graph,0.0,10000,1,1
+label_propagation,0.5_precision,Entire Graph,0.0,10000,1,2
+label_propagation,0.5_recall,Entire Graph,0.0,10000,1,2
+label_propagation,0.6_precision,Entire Graph,0.0,10000,1,2
+label_propagation,0.6_recall,Entire Graph,0.0,10000,1,2
+label_propagation,0.7_precision,Entire Graph,0.0,10000,1,2
+label_propagation,0.7_recall,Entire Graph,0.0,10000,1,2
+label_propagation,0.8_precision,Entire Graph,0.0,10000,1,2
+label_propagation,0.8_recall,Entire Graph,0.0,10000,1,2
+label_propagation,0.9_precision,Entire Graph,0.0,10000,1,2
+label_propagation,0.9_recall,Entire Graph,0.0,10000,1,2
+label_propagation,1.0_precision,Entire Graph,0.0,10000,1,2
+label_propagation,1.0_recall,Entire Graph,0.0,10000,1,2
+label_propagation,NLS,Entire Graph,0.87127504402606681,10000,1,2
+label_propagation,Block_size_median,Entire Graph,2000.0,10000,1,2
+label_propagation,Sample_block_num,Entire Graph,1,10000,1,2
+label_propagation,Original_block_num,Entire Graph,39,10000,1,2
+label_propagation,ANC,Entire Graph,0.02564102564102566,10000,1,2
+label_propagation,Scikit-learn NMI,Entire Graph,5.5511151231257827e-07,10000,1,2
+label_propagation,Adjusted Rand Score,Entire Graph,0.0,10000,1,2
+label_propagation,Lancichinetti NMI,Entire Graph,0.0,10000,1,2
+label_propagation,0.5_precision,Entire Graph,0.0,10000,2,1
+label_propagation,0.5_recall,Entire Graph,0.0,10000,2,1
+label_propagation,0.6_precision,Entire Graph,0.0,10000,2,1
+label_propagation,0.6_recall,Entire Graph,0.0,10000,2,1
+label_propagation,0.7_precision,Entire Graph,0.0,10000,2,1
+label_propagation,0.7_recall,Entire Graph,0.0,10000,2,1
+label_propagation,0.8_precision,Entire Graph,0.0,10000,2,1
+label_propagation,0.8_recall,Entire Graph,0.0,10000,2,1
+label_propagation,0.9_precision,Entire Graph,0.0,10000,2,1
+label_propagation,0.9_recall,Entire Graph,0.0,10000,2,1
+label_propagation,1.0_precision,Entire Graph,0.0,10000,2,1
+label_propagation,1.0_recall,Entire Graph,0.0,10000,2,1
+label_propagation,NLS,Entire Graph,0.88942445504719203,10000,2,1
+label_propagation,Block_size_median,Entire Graph,2000.0,10000,2,1
+label_propagation,Sample_block_num,Entire Graph,1,10000,2,1
+label_propagation,Original_block_num,Entire Graph,29,10000,2,1
+label_propagation,ANC,Entire Graph,0.03448275862068961,10000,2,1
+label_propagation,Scikit-learn NMI,Entire Graph,1.5959455978986625e-06,10000,2,1
+label_propagation,Adjusted Rand Score,Entire Graph,0.0,10000,2,1
+label_propagation,Lancichinetti NMI,Entire Graph,0.0,10000,2,1
+label_propagation,0.5_precision,Entire Graph,0.0,10000,2,2
+label_propagation,0.5_recall,Entire Graph,0.0,10000,2,2
+label_propagation,0.6_precision,Entire Graph,0.0,10000,2,2
+label_propagation,0.6_recall,Entire Graph,0.0,10000,2,2
+label_propagation,0.7_precision,Entire Graph,0.0,10000,2,2
+label_propagation,0.7_recall,Entire Graph,0.0,10000,2,2
+label_propagation,0.8_precision,Entire Graph,0.0,10000,2,2
+label_propagation,0.8_recall,Entire Graph,0.0,10000,2,2
+label_propagation,0.9_precision,Entire Graph,0.0,10000,2,2
+label_propagation,0.9_recall,Entire Graph,0.0,10000,2,2
+label_propagation,1.0_precision,Entire Graph,0.0,10000,2,2
+label_propagation,1.0_recall,Entire Graph,0.0,10000,2,2
+label_propagation,NLS,Entire Graph,0.88942445504719203,10000,2,2
+label_propagation,Block_size_median,Entire Graph,2000.0,10000,2,2
+label_propagation,Sample_block_num,Entire Graph,1,10000,2,2
+label_propagation,Original_block_num,Entire Graph,29,10000,2,2
+label_propagation,ANC,Entire Graph,0.03448275862068961,10000,2,2
+label_propagation,Scikit-learn NMI,Entire Graph,1.5959455978986625e-06,10000,2,2
+label_propagation,Adjusted Rand Score,Entire Graph,0.0,10000,2,2
+label_propagation,Lancichinetti NMI,Entire Graph,0.0,10000,2,2
+oslom,Modularity,Entire Graph,0.3657,10000,1,1
+oslom,Coverage,Entire Graph,0.4280,10000,1,1
+oslom,Conductance,Entire Graph,0.2355,10000,1,1
+oslom,Modularity,Entire Graph,0.3657,10000,1,2
+oslom,Coverage,Entire Graph,0.4280,10000,1,2
+oslom,Conductance,Entire Graph,0.2355,10000,1,2
+oslom,Modularity,Entire Graph,0.3643,10000,2,1
+oslom,Coverage,Entire Graph,0.4260,10000,2,1
+oslom,Conductance,Entire Graph,0.2454,10000,2,1
+oslom,Modularity,Entire Graph,0.3643,10000,2,2
+oslom,Coverage,Entire Graph,0.4260,10000,2,2
+oslom,Conductance,Entire Graph,0.2454,10000,2,2
+oslom,0.5_precision,Entire Graph,0.9807216333625388,10000,1,1
+oslom,0.5_recall,Entire Graph,0.19172581090651408,10000,1,1
+oslom,0.6_precision,Entire Graph,0.9807216333625388,10000,1,1
+oslom,0.6_recall,Entire Graph,0.19172581090651408,10000,1,1
+oslom,0.7_precision,Entire Graph,0.9807216333625388,10000,1,1
+oslom,0.7_recall,Entire Graph,0.19172581090651408,10000,1,1
+oslom,0.8_precision,Entire Graph,0.9807216333625388,10000,1,1
+oslom,0.8_recall,Entire Graph,0.19172581090651408,10000,1,1
+oslom,0.9_precision,Entire Graph,0.9807216333625388,10000,1,1
+oslom,0.9_recall,Entire Graph,0.19172581090651408,10000,1,1
+oslom,1.0_precision,Entire Graph,0.48717948717948717,10000,1,1
+oslom,1.0_recall,Entire Graph,0.09143106549544379,10000,1,1
+oslom,NLS,Entire Graph,0.84434592332451086,10000,1,1
+oslom,Block_size_median,Entire Graph,31.0,10000,1,1
+oslom,Sample_block_num,Entire Graph,39,10000,1,1
+oslom,Original_block_num,Entire Graph,39,10000,1,1
+oslom,ANC,Entire Graph,1.0,10000,1,1
+oslom,Scikit-learn NMI,Entire Graph,0.96640974556488679,10000,1,1
+oslom,Adjusted Rand Score,Entire Graph,0.9468193147114305,10000,1,1
+oslom,Lancichinetti NMI,Entire Graph,0.926823,10000,1,1
+oslom,0.5_precision,Entire Graph,0.9807216333625388,10000,1,2
+oslom,0.5_recall,Entire Graph,0.19172581090651408,10000,1,2
+oslom,0.6_precision,Entire Graph,0.9807216333625388,10000,1,2
+oslom,0.6_recall,Entire Graph,0.19172581090651408,10000,1,2
+oslom,0.7_precision,Entire Graph,0.9807216333625388,10000,1,2
+oslom,0.7_recall,Entire Graph,0.19172581090651408,10000,1,2
+oslom,0.8_precision,Entire Graph,0.9807216333625388,10000,1,2
+oslom,0.8_recall,Entire Graph,0.19172581090651408,10000,1,2
+oslom,0.9_precision,Entire Graph,0.9807216333625388,10000,1,2
+oslom,0.9_recall,Entire Graph,0.19172581090651408,10000,1,2
+oslom,1.0_precision,Entire Graph,0.48717948717948717,10000,1,2
+oslom,1.0_recall,Entire Graph,0.09143106549544379,10000,1,2
+oslom,NLS,Entire Graph,0.84434592332451086,10000,1,2
+oslom,Block_size_median,Entire Graph,31.0,10000,1,2
+oslom,Sample_block_num,Entire Graph,39,10000,1,2
+oslom,Original_block_num,Entire Graph,39,10000,1,2
+oslom,ANC,Entire Graph,1.0,10000,1,2
+oslom,Scikit-learn NMI,Entire Graph,0.96640974556488679,10000,1,2
+oslom,Adjusted Rand Score,Entire Graph,0.9468193147114305,10000,1,2
+oslom,Lancichinetti NMI,Entire Graph,0.926823,10000,1,2
+oslom,0.5_precision,Entire Graph,0.9600581448526128,10000,2,1
+oslom,0.5_recall,Entire Graph,0.18296939875023316,10000,2,1
+oslom,0.6_precision,Entire Graph,0.9600581448526128,10000,2,1
+oslom,0.6_recall,Entire Graph,0.18296939875023316,10000,2,1
+oslom,0.7_precision,Entire Graph,0.9600581448526128,10000,2,1
+oslom,0.7_recall,Entire Graph,0.18296939875023316,10000,2,1
+oslom,0.8_precision,Entire Graph,0.9600581448526128,10000,2,1
+oslom,0.8_recall,Entire Graph,0.18296939875023316,10000,2,1
+oslom,0.9_precision,Entire Graph,0.8995859179118959,10000,2,1
+oslom,0.9_recall,Entire Graph,0.17111702483748864,10000,2,1
+oslom,1.0_precision,Entire Graph,0.13793103448275862,10000,2,1
+oslom,1.0_recall,Entire Graph,0.02455704224431929,10000,2,1
+oslom,NLS,Entire Graph,0.86995610698447057,10000,2,1
+oslom,Block_size_median,Entire Graph,44.0,10000,2,1
+oslom,Sample_block_num,Entire Graph,29,10000,2,1
+oslom,Original_block_num,Entire Graph,29,10000,2,1
+oslom,ANC,Entire Graph,1.0,10000,2,1
+oslom,Scikit-learn NMI,Entire Graph,0.95316013029144808,10000,2,1
+oslom,Adjusted Rand Score,Entire Graph,0.9315939583490428,10000,2,1
+oslom,Lancichinetti NMI,Entire Graph,0.890709,10000,2,1
+oslom,0.5_precision,Entire Graph,0.9600581448526128,10000,2,2
+oslom,0.5_recall,Entire Graph,0.18296939875023316,10000,2,2
+oslom,0.6_precision,Entire Graph,0.9600581448526128,10000,2,2
+oslom,0.6_recall,Entire Graph,0.18296939875023316,10000,2,2
+oslom,0.7_precision,Entire Graph,0.9600581448526128,10000,2,2
+oslom,0.7_recall,Entire Graph,0.18296939875023316,10000,2,2
+oslom,0.8_precision,Entire Graph,0.9600581448526128,10000,2,2
+oslom,0.8_recall,Entire Graph,0.18296939875023316,10000,2,2
+oslom,0.9_precision,Entire Graph,0.8995859179118959,10000,2,2
+oslom,0.9_recall,Entire Graph,0.17111702483748864,10000,2,2
+oslom,1.0_precision,Entire Graph,0.13793103448275862,10000,2,2
+oslom,1.0_recall,Entire Graph,0.02455704224431929,10000,2,2
+oslom,NLS,Entire Graph,0.86995610698447057,10000,2,2
+oslom,Block_size_median,Entire Graph,44.0,10000,2,2
+oslom,Sample_block_num,Entire Graph,29,10000,2,2
+oslom,Original_block_num,Entire Graph,29,10000,2,2
+oslom,ANC,Entire Graph,1.0,10000,2,2
+oslom,Scikit-learn NMI,Entire Graph,0.95316013029144808,10000,2,2
+oslom,Adjusted Rand Score,Entire Graph,0.9315939583490428,10000,2,2
+oslom,Lancichinetti NMI,Entire Graph,0.890709,10000,2,2
+mod_opt,Modularity,Entire Graph,0.3810,10000,1,1
+mod_opt,Coverage,Entire Graph,0.4493,10000,1,1
+mod_opt,Conductance,Entire Graph,0.2615,10000,1,1
+mod_opt,Modularity,Entire Graph,0.3810,10000,1,2
+mod_opt,Coverage,Entire Graph,0.4493,10000,1,2
+mod_opt,Conductance,Entire Graph,0.2615,10000,1,2
+mod_opt,Modularity,Entire Graph,0.3817,10000,2,1
+mod_opt,Coverage,Entire Graph,0.4503,10000,2,1
+mod_opt,Conductance,Entire Graph,0.2659,10000,2,1
+mod_opt,Modularity,Entire Graph,0.3817,10000,2,2
+mod_opt,Coverage,Entire Graph,0.4503,10000,2,2
+mod_opt,Conductance,Entire Graph,0.2659,10000,2,2
+mod_opt,0.5_precision,Entire Graph,0.8390937378383841,10000,1,1
+mod_opt,0.5_recall,Entire Graph,0.12021096447085647,10000,1,1
+mod_opt,0.6_precision,Entire Graph,0.8390937378383841,10000,1,1
+mod_opt,0.6_recall,Entire Graph,0.12021096447085647,10000,1,1
+mod_opt,0.7_precision,Entire Graph,0.7578190125636588,10000,1,1
+mod_opt,0.7_recall,Entire Graph,0.1019468756185323,10000,1,1
+mod_opt,0.8_precision,Entire Graph,0.7264937113588396,10000,1,1
+mod_opt,0.8_recall,Entire Graph,0.09714380165119321,10000,1,1
+mod_opt,0.9_precision,Entire Graph,0.6591374322890722,10000,1,1
+mod_opt,0.9_recall,Entire Graph,0.08668631885882452,10000,1,1
+mod_opt,1.0_precision,Entire Graph,0.08,10000,1,1
+mod_opt,1.0_recall,Entire Graph,0.007821986442676098,10000,1,1
+mod_opt,NLS,Entire Graph,0.82659251091999864,10000,1,1
+mod_opt,Block_size_median,Entire Graph,67.0,10000,1,1
+mod_opt,Sample_block_num,Entire Graph,25,10000,1,1
+mod_opt,Original_block_num,Entire Graph,39,10000,1,1
+mod_opt,ANC,Entire Graph,0.641025641025641,10000,1,1
+mod_opt,Scikit-learn NMI,Entire Graph,0.9290008582113044,10000,1,1
+mod_opt,Adjusted Rand Score,Entire Graph,0.8799239288629214,10000,1,1
+mod_opt,Lancichinetti NMI,Entire Graph,0.684504,10000,1,1
+mod_opt,0.5_precision,Entire Graph,0.8390937378383841,10000,1,2
+mod_opt,0.5_recall,Entire Graph,0.12021096447085647,10000,1,2
+mod_opt,0.6_precision,Entire Graph,0.8390937378383841,10000,1,2
+mod_opt,0.6_recall,Entire Graph,0.12021096447085647,10000,1,2
+mod_opt,0.7_precision,Entire Graph,0.7578190125636588,10000,1,2
+mod_opt,0.7_recall,Entire Graph,0.1019468756185323,10000,1,2
+mod_opt,0.8_precision,Entire Graph,0.7264937113588396,10000,1,2
+mod_opt,0.8_recall,Entire Graph,0.09714380165119321,10000,1,2
+mod_opt,0.9_precision,Entire Graph,0.6591374322890722,10000,1,2
+mod_opt,0.9_recall,Entire Graph,0.08668631885882452,10000,1,2
+mod_opt,1.0_precision,Entire Graph,0.08,10000,1,2
+mod_opt,1.0_recall,Entire Graph,0.007821986442676098,10000,1,2
+mod_opt,NLS,Entire Graph,0.82659251091999864,10000,1,2
+mod_opt,Block_size_median,Entire Graph,67.0,10000,1,2
+mod_opt,Sample_block_num,Entire Graph,25,10000,1,2
+mod_opt,Original_block_num,Entire Graph,39,10000,1,2
+mod_opt,ANC,Entire Graph,0.641025641025641,10000,1,2
+mod_opt,Scikit-learn NMI,Entire Graph,0.9290008582113044,10000,1,2
+mod_opt,Adjusted Rand Score,Entire Graph,0.8799239288629214,10000,1,2
+mod_opt,Lancichinetti NMI,Entire Graph,0.684504,10000,1,2
+mod_opt,0.5_precision,Entire Graph,0.9011977471089729,10000,2,1
+mod_opt,0.5_recall,Entire Graph,0.14279118987626446,10000,2,1
+mod_opt,0.6_precision,Entire Graph,0.8753713008279813,10000,2,1
+mod_opt,0.6_recall,Entire Graph,0.13442158826930092,10000,2,1
+mod_opt,0.7_precision,Entire Graph,0.8447682405219507,10000,2,1
+mod_opt,0.7_recall,Entire Graph,0.1270940020624044,10000,2,1
+mod_opt,0.8_precision,Entire Graph,0.8447682405219507,10000,2,1
+mod_opt,0.8_recall,Entire Graph,0.1270940020624044,10000,2,1
+mod_opt,0.9_precision,Entire Graph,0.8065144151394125,10000,2,1
+mod_opt,0.9_recall,Entire Graph,0.11969239983321597,10000,2,1
+mod_opt,1.0_precision,Entire Graph,0.36363636363636365,10000,2,1
+mod_opt,1.0_recall,Entire Graph,0.0542524402914243,10000,2,1
+mod_opt,NLS,Entire Graph,0.87755774239509743,10000,2,1
+mod_opt,Block_size_median,Entire Graph,101.0,10000,2,1
+mod_opt,Sample_block_num,Entire Graph,22,10000,2,1
+mod_opt,Original_block_num,Entire Graph,29,10000,2,1
+mod_opt,ANC,Entire Graph,0.7586206896551724,10000,2,1
+mod_opt,Scikit-learn NMI,Entire Graph,0.956657940107976,10000,2,1
+mod_opt,Adjusted Rand Score,Entire Graph,0.9399601962026797,10000,2,1
+mod_opt,Lancichinetti NMI,Entire Graph,0.814533,10000,2,1
+mod_opt,0.5_precision,Entire Graph,0.9011977471089729,10000,2,2
+mod_opt,0.5_recall,Entire Graph,0.14279118987626446,10000,2,2
+mod_opt,0.6_precision,Entire Graph,0.8753713008279813,10000,2,2
+mod_opt,0.6_recall,Entire Graph,0.13442158826930092,10000,2,2
+mod_opt,0.7_precision,Entire Graph,0.8447682405219507,10000,2,2
+mod_opt,0.7_recall,Entire Graph,0.1270940020624044,10000,2,2
+mod_opt,0.8_precision,Entire Graph,0.8447682405219507,10000,2,2
+mod_opt,0.8_recall,Entire Graph,0.1270940020624044,10000,2,2
+mod_opt,0.9_precision,Entire Graph,0.8065144151394125,10000,2,2
+mod_opt,0.9_recall,Entire Graph,0.11969239983321597,10000,2,2
+mod_opt,1.0_precision,Entire Graph,0.36363636363636365,10000,2,2
+mod_opt,1.0_recall,Entire Graph,0.0542524402914243,10000,2,2
+mod_opt,NLS,Entire Graph,0.87755774239509743,10000,2,2
+mod_opt,Block_size_median,Entire Graph,101.0,10000,2,2
+mod_opt,Sample_block_num,Entire Graph,22,10000,2,2
+mod_opt,Original_block_num,Entire Graph,29,10000,2,2
+mod_opt,ANC,Entire Graph,0.7586206896551724,10000,2,2
+mod_opt,Scikit-learn NMI,Entire Graph,0.956657940107976,10000,2,2
+mod_opt,Adjusted Rand Score,Entire Graph,0.9399601962026797,10000,2,2
+mod_opt,Lancichinetti NMI,Entire Graph,0.814533,10000,2,2
+gold_standard,Modularity,Entire Graph,0.3918,30000,1,1
+gold_standard,Coverage,Entire Graph,0.4521,30000,1,1
+gold_standard,Conductance,Entire Graph,0.2364,30000,1,1
+gold_standard,Modularity,Entire Graph,0.3909,30000,2,1
+gold_standard,Coverage,Entire Graph,0.4555,30000,2,1
+gold_standard,Conductance,Entire Graph,0.2452,30000,2,1
+blondel,Modularity,Entire Graph,0.3898,30000,1,1
+blondel,Coverage,Entire Graph,0.4555,30000,1,1
+blondel,Conductance,Entire Graph,0.2384,30000,1,1
+blondel,Modularity,Entire Graph,0.3898,30000,1,2
+blondel,Coverage,Entire Graph,0.4555,30000,1,2
+blondel,Conductance,Entire Graph,0.2384,30000,1,2
+blondel,Modularity,Entire Graph,0.3902,30000,2,1
+blondel,Coverage,Entire Graph,0.4574,30000,2,1
+blondel,Conductance,Entire Graph,0.2386,30000,2,1
+blondel,Modularity,Entire Graph,0.3902,30000,2,2
+blondel,Coverage,Entire Graph,0.4574,30000,2,2
+blondel,Conductance,Entire Graph,0.2386,30000,2,2
+blondel,0.5_precision,Entire Graph,0.9709366592640617,30000,1,1
+blondel,0.5_recall,Entire Graph,0.16489828509068472,30000,1,1
+blondel,0.6_precision,Entire Graph,0.9572823057020565,30000,1,1
+blondel,0.6_recall,Entire Graph,0.1600690577670565,30000,1,1
+blondel,0.7_precision,Entire Graph,0.9572823057020565,30000,1,1
+blondel,0.7_recall,Entire Graph,0.1600690577670565,30000,1,1
+blondel,0.8_precision,Entire Graph,0.9383922853354576,30000,1,1
+blondel,0.8_recall,Entire Graph,0.15600437341006543,30000,1,1
+blondel,0.9_precision,Entire Graph,0.9182209457715947,30000,1,1
+blondel,0.9_recall,Entire Graph,0.1514948494347198,30000,1,1
+blondel,1.0_precision,Entire Graph,0.5,30000,1,1
+blondel,1.0_recall,Entire Graph,0.0782579634137059,30000,1,1
+blondel,NLS,Entire Graph,0.8242875760449343,30000,1,1
+blondel,Block_size_median,Entire Graph,91.5,30000,1,1
+blondel,Sample_block_num,Entire Graph,40,30000,1,1
+blondel,Original_block_num,Entire Graph,47,30000,1,1
+blondel,ANC,Entire Graph,0.851063829787234,30000,1,1
+blondel,Scikit-learn NMI,Entire Graph,0.96330317882697203,30000,1,1
+blondel,Adjusted Rand Score,Entire Graph,0.9242359212475515,30000,1,1
+blondel,Lancichinetti NMI,Entire Graph,0.840884,30000,1,1
+blondel,0.5_precision,Entire Graph,0.9709366592640617,30000,1,2
+blondel,0.5_recall,Entire Graph,0.16489828509068472,30000,1,2
+blondel,0.6_precision,Entire Graph,0.9572823057020565,30000,1,2
+blondel,0.6_recall,Entire Graph,0.1600690577670565,30000,1,2
+blondel,0.7_precision,Entire Graph,0.9572823057020565,30000,1,2
+blondel,0.7_recall,Entire Graph,0.1600690577670565,30000,1,2
+blondel,0.8_precision,Entire Graph,0.9383922853354576,30000,1,2
+blondel,0.8_recall,Entire Graph,0.15600437341006543,30000,1,2
+blondel,0.9_precision,Entire Graph,0.9182209457715947,30000,1,2
+blondel,0.9_recall,Entire Graph,0.1514948494347198,30000,1,2
+blondel,1.0_precision,Entire Graph,0.5,30000,1,2
+blondel,1.0_recall,Entire Graph,0.0782579634137059,30000,1,2
+blondel,NLS,Entire Graph,0.8242875760449343,30000,1,2
+blondel,Block_size_median,Entire Graph,91.5,30000,1,2
+blondel,Sample_block_num,Entire Graph,40,30000,1,2
+blondel,Original_block_num,Entire Graph,47,30000,1,2
+blondel,ANC,Entire Graph,0.851063829787234,30000,1,2
+blondel,Scikit-learn NMI,Entire Graph,0.96330317882697203,30000,1,2
+blondel,Adjusted Rand Score,Entire Graph,0.9242359212475515,30000,1,2
+blondel,Lancichinetti NMI,Entire Graph,0.840884,30000,1,2
+blondel,0.5_precision,Entire Graph,0.9416120293943125,30000,2,1
+blondel,0.5_recall,Entire Graph,0.15656116986053914,30000,2,1
+blondel,0.6_precision,Entire Graph,0.9416120293943125,30000,2,1
+blondel,0.6_recall,Entire Graph,0.15656116986053914,30000,2,1
+blondel,0.7_precision,Entire Graph,0.9416120293943125,30000,2,1
+blondel,0.7_recall,Entire Graph,0.15656116986053914,30000,2,1
+blondel,0.8_precision,Entire Graph,0.9209964660958225,30000,2,1
+blondel,0.8_recall,Entire Graph,0.1522466341288911,30000,2,1
+blondel,0.9_precision,Entire Graph,0.8972250985744551,30000,2,1
+blondel,0.9_recall,Entire Graph,0.14797927701343275,30000,2,1
+blondel,1.0_precision,Entire Graph,0.2777777777777778,30000,2,1
+blondel,1.0_recall,Entire Graph,0.04143870970913293,30000,2,1
+blondel,NLS,Entire Graph,0.87118021895139308,30000,2,1
+blondel,Block_size_median,Entire Graph,84.0,30000,2,1
+blondel,Sample_block_num,Entire Graph,36,30000,2,1
+blondel,Original_block_num,Entire Graph,44,30000,2,1
+blondel,ANC,Entire Graph,0.8181818181818181,30000,2,1
+blondel,Scikit-learn NMI,Entire Graph,0.95049057878644794,30000,2,1
+blondel,Adjusted Rand Score,Entire Graph,0.9283966287444378,30000,2,1
+blondel,Lancichinetti NMI,Entire Graph,0.774718,30000,2,1
+blondel,0.5_precision,Entire Graph,0.9416120293943125,30000,2,2
+blondel,0.5_recall,Entire Graph,0.15656116986053914,30000,2,2
+blondel,0.6_precision,Entire Graph,0.9416120293943125,30000,2,2
+blondel,0.6_recall,Entire Graph,0.15656116986053914,30000,2,2
+blondel,0.7_precision,Entire Graph,0.9416120293943125,30000,2,2
+blondel,0.7_recall,Entire Graph,0.15656116986053914,30000,2,2
+blondel,0.8_precision,Entire Graph,0.9209964660958225,30000,2,2
+blondel,0.8_recall,Entire Graph,0.1522466341288911,30000,2,2
+blondel,0.9_precision,Entire Graph,0.8972250985744551,30000,2,2
+blondel,0.9_recall,Entire Graph,0.14797927701343275,30000,2,2
+blondel,1.0_precision,Entire Graph,0.2777777777777778,30000,2,2
+blondel,1.0_recall,Entire Graph,0.04143870970913293,30000,2,2
+blondel,NLS,Entire Graph,0.87118021895139308,30000,2,2
+blondel,Block_size_median,Entire Graph,84.0,30000,2,2
+blondel,Sample_block_num,Entire Graph,36,30000,2,2
+blondel,Original_block_num,Entire Graph,44,30000,2,2
+blondel,ANC,Entire Graph,0.8181818181818181,30000,2,2
+blondel,Scikit-learn NMI,Entire Graph,0.95049057878644794,30000,2,2
+blondel,Adjusted Rand Score,Entire Graph,0.9283966287444378,30000,2,2
+blondel,Lancichinetti NMI,Entire Graph,0.774718,30000,2,2
+infomap,Modularity,Entire Graph,0.3918,30000,1,1
+infomap,Coverage,Entire Graph,0.4521,30000,1,1
+infomap,Conductance,Entire Graph,0.2315,30000,1,1
+infomap,Modularity,Entire Graph,0.3918,30000,1,2
+infomap,Coverage,Entire Graph,0.4521,30000,1,2
+infomap,Conductance,Entire Graph,0.2315,30000,1,2
+infomap,Modularity,Entire Graph,0.3910,30000,2,1
+infomap,Coverage,Entire Graph,0.4556,30000,2,1
+infomap,Conductance,Entire Graph,0.2389,30000,2,1
+infomap,Modularity,Entire Graph,0.3910,30000,2,2
+infomap,Coverage,Entire Graph,0.4556,30000,2,2
+infomap,Conductance,Entire Graph,0.2389,30000,2,2
+infomap,0.5_precision,Entire Graph,0.9843377767726166,30000,1,1
+infomap,0.5_recall,Entire Graph,0.18860027706310453,30000,1,1
+infomap,0.6_precision,Entire Graph,0.9843377767726166,30000,1,1
+infomap,0.6_recall,Entire Graph,0.18860027706310453,30000,1,1
+infomap,0.7_precision,Entire Graph,0.9843377767726166,30000,1,1
+infomap,0.7_recall,Entire Graph,0.18860027706310453,30000,1,1
+infomap,0.8_precision,Entire Graph,0.9843377767726166,30000,1,1
+infomap,0.8_recall,Entire Graph,0.18860027706310453,30000,1,1
+infomap,0.9_precision,Entire Graph,0.9655643099390746,30000,1,1
+infomap,0.9_recall,Entire Graph,0.18400820603907272,30000,1,1
+infomap,1.0_precision,Entire Graph,0.5106382978723404,30000,1,1
+infomap,1.0_recall,Entire Graph,0.09573934161177584,30000,1,1
+infomap,NLS,Entire Graph,0.86085946717658013,30000,1,1
+infomap,Block_size_median,Entire Graph,63.0,30000,1,1
+infomap,Sample_block_num,Entire Graph,47,30000,1,1
+infomap,Original_block_num,Entire Graph,47,30000,1,1
+infomap,ANC,Entire Graph,1.0,30000,1,1
+infomap,Scikit-learn NMI,Entire Graph,0.98560003718701938,30000,1,1
+infomap,Adjusted Rand Score,Entire Graph,0.9837657651625272,30000,1,1
+infomap,Lancichinetti NMI,Entire Graph,0.933047,30000,1,1
+infomap,0.5_precision,Entire Graph,0.9843377767726166,30000,1,2
+infomap,0.5_recall,Entire Graph,0.18860027706310453,30000,1,2
+infomap,0.6_precision,Entire Graph,0.9843377767726166,30000,1,2
+infomap,0.6_recall,Entire Graph,0.18860027706310453,30000,1,2
+infomap,0.7_precision,Entire Graph,0.9843377767726166,30000,1,2
+infomap,0.7_recall,Entire Graph,0.18860027706310453,30000,1,2
+infomap,0.8_precision,Entire Graph,0.9843377767726166,30000,1,2
+infomap,0.8_recall,Entire Graph,0.18860027706310453,30000,1,2
+infomap,0.9_precision,Entire Graph,0.9655643099390746,30000,1,2
+infomap,0.9_recall,Entire Graph,0.18400820603907272,30000,1,2
+infomap,1.0_precision,Entire Graph,0.5106382978723404,30000,1,2
+infomap,1.0_recall,Entire Graph,0.09573934161177584,30000,1,2
+infomap,NLS,Entire Graph,0.86085946717658013,30000,1,2
+infomap,Block_size_median,Entire Graph,63.0,30000,1,2
+infomap,Sample_block_num,Entire Graph,47,30000,1,2
+infomap,Original_block_num,Entire Graph,47,30000,1,2
+infomap,ANC,Entire Graph,1.0,30000,1,2
+infomap,Scikit-learn NMI,Entire Graph,0.98560003718701938,30000,1,2
+infomap,Adjusted Rand Score,Entire Graph,0.9837657651625272,30000,1,2
+infomap,Lancichinetti NMI,Entire Graph,0.933047,30000,1,2
+infomap,0.5_precision,Entire Graph,0.9794314023428067,30000,2,1
+infomap,0.5_recall,Entire Graph,0.19348042168912707,30000,2,1
+infomap,0.6_precision,Entire Graph,0.9794314023428067,30000,2,1
+infomap,0.6_recall,Entire Graph,0.19348042168912707,30000,2,1
+infomap,0.7_precision,Entire Graph,0.9794314023428067,30000,2,1
+infomap,0.7_recall,Entire Graph,0.19348042168912707,30000,2,1
+infomap,0.8_precision,Entire Graph,0.9794314023428067,30000,2,1
+infomap,0.8_recall,Entire Graph,0.19348042168912707,30000,2,1
+infomap,0.9_precision,Entire Graph,0.9794314023428067,30000,2,1
+infomap,0.9_recall,Entire Graph,0.19348042168912707,30000,2,1
+infomap,1.0_precision,Entire Graph,0.28888888888888886,30000,2,1
+infomap,1.0_recall,Entire Graph,0.05368612042736012,30000,2,1
+infomap,NLS,Entire Graph,0.90689431173857649,30000,2,1
+infomap,Block_size_median,Entire Graph,67.0,30000,2,1
+infomap,Sample_block_num,Entire Graph,45,30000,2,1
+infomap,Original_block_num,Entire Graph,44,30000,2,1
+infomap,ANC,Entire Graph,0.9777777777777777,30000,2,1
+infomap,Scikit-learn NMI,Entire Graph,0.97394021694972643,30000,2,1
+infomap,Adjusted Rand Score,Entire Graph,0.9720114198010477,30000,2,1
+infomap,Lancichinetti NMI,Entire Graph,0.91692,30000,2,1
+infomap,0.5_precision,Entire Graph,0.9794314023428067,30000,2,2
+infomap,0.5_recall,Entire Graph,0.19348042168912707,30000,2,2
+infomap,0.6_precision,Entire Graph,0.9794314023428067,30000,2,2
+infomap,0.6_recall,Entire Graph,0.19348042168912707,30000,2,2
+infomap,0.7_precision,Entire Graph,0.9794314023428067,30000,2,2
+infomap,0.7_recall,Entire Graph,0.19348042168912707,30000,2,2
+infomap,0.8_precision,Entire Graph,0.9794314023428067,30000,2,2
+infomap,0.8_recall,Entire Graph,0.19348042168912707,30000,2,2
+infomap,0.9_precision,Entire Graph,0.9794314023428067,30000,2,2
+infomap,0.9_recall,Entire Graph,0.19348042168912707,30000,2,2
+infomap,1.0_precision,Entire Graph,0.28888888888888886,30000,2,2
+infomap,1.0_recall,Entire Graph,0.05368612042736012,30000,2,2
+infomap,NLS,Entire Graph,0.90689431173857649,30000,2,2
+infomap,Block_size_median,Entire Graph,67.0,30000,2,2
+infomap,Sample_block_num,Entire Graph,45,30000,2,2
+infomap,Original_block_num,Entire Graph,44,30000,2,2
+infomap,ANC,Entire Graph,0.9777777777777777,30000,2,2
+infomap,Scikit-learn NMI,Entire Graph,0.97394021694972643,30000,2,2
+infomap,Adjusted Rand Score,Entire Graph,0.9720114198010477,30000,2,2
+infomap,Lancichinetti NMI,Entire Graph,0.91692,30000,2,2
+label_propagation,Modularity,Entire Graph,0.0000,30000,1,1
+label_propagation,Coverage,Entire Graph,1.0000,30000,1,1
+label_propagation,Conductance,Entire Graph,0.0,30000,1,1
+label_propagation,Modularity,Entire Graph,0.0000,30000,1,2
+label_propagation,Coverage,Entire Graph,1.0000,30000,1,2
+label_propagation,Conductance,Entire Graph,0.0,30000,1,2
+label_propagation,Modularity,Entire Graph,0.0000,30000,2,1
+label_propagation,Coverage,Entire Graph,1.0000,30000,2,1
+label_propagation,Conductance,Entire Graph,0.0,30000,2,1
+label_propagation,Modularity,Entire Graph,0.0000,30000,2,2
+label_propagation,Coverage,Entire Graph,1.0000,30000,2,2
+label_propagation,Conductance,Entire Graph,0.0,30000,2,2
+label_propagation,0.5_precision,Entire Graph,0.0,30000,1,1
+label_propagation,0.5_recall,Entire Graph,0.0,30000,1,1
+label_propagation,0.6_precision,Entire Graph,0.0,30000,1,1
+label_propagation,0.6_recall,Entire Graph,0.0,30000,1,1
+label_propagation,0.7_precision,Entire Graph,0.0,30000,1,1
+label_propagation,0.7_recall,Entire Graph,0.0,30000,1,1
+label_propagation,0.8_precision,Entire Graph,0.0,30000,1,1
+label_propagation,0.8_recall,Entire Graph,0.0,30000,1,1
+label_propagation,0.9_precision,Entire Graph,0.0,30000,1,1
+label_propagation,0.9_recall,Entire Graph,0.0,30000,1,1
+label_propagation,1.0_precision,Entire Graph,0.0,30000,1,1
+label_propagation,1.0_recall,Entire Graph,0.0,30000,1,1
+label_propagation,NLS,Entire Graph,0.86407861579358114,30000,1,1
+label_propagation,Block_size_median,Entire Graph,6000.0,30000,1,1
+label_propagation,Sample_block_num,Entire Graph,1,30000,1,1
+label_propagation,Original_block_num,Entire Graph,47,30000,1,1
+label_propagation,ANC,Entire Graph,0.021276595744680882,30000,1,1
+label_propagation,Scikit-learn NMI,Entire Graph,-6.4878658001532585e-06,30000,1,1
+label_propagation,Adjusted Rand Score,Entire Graph,0.0,30000,1,1
+label_propagation,Lancichinetti NMI,Entire Graph,0.0,30000,1,1
+label_propagation,0.5_precision,Entire Graph,0.0,30000,1,2
+label_propagation,0.5_recall,Entire Graph,0.0,30000,1,2
+label_propagation,0.6_precision,Entire Graph,0.0,30000,1,2
+label_propagation,0.6_recall,Entire Graph,0.0,30000,1,2
+label_propagation,0.7_precision,Entire Graph,0.0,30000,1,2
+label_propagation,0.7_recall,Entire Graph,0.0,30000,1,2
+label_propagation,0.8_precision,Entire Graph,0.0,30000,1,2
+label_propagation,0.8_recall,Entire Graph,0.0,30000,1,2
+label_propagation,0.9_precision,Entire Graph,0.0,30000,1,2
+label_propagation,0.9_recall,Entire Graph,0.0,30000,1,2
+label_propagation,1.0_precision,Entire Graph,0.0,30000,1,2
+label_propagation,1.0_recall,Entire Graph,0.0,30000,1,2
+label_propagation,NLS,Entire Graph,0.86407861579358114,30000,1,2
+label_propagation,Block_size_median,Entire Graph,6000.0,30000,1,2
+label_propagation,Sample_block_num,Entire Graph,1,30000,1,2
+label_propagation,Original_block_num,Entire Graph,47,30000,1,2
+label_propagation,ANC,Entire Graph,0.021276595744680882,30000,1,2
+label_propagation,Scikit-learn NMI,Entire Graph,-6.4878658001532585e-06,30000,1,2
+label_propagation,Adjusted Rand Score,Entire Graph,0.0,30000,1,2
+label_propagation,Lancichinetti NMI,Entire Graph,0.0,30000,1,2
+label_propagation,0.5_precision,Entire Graph,0.0,30000,2,1
+label_propagation,0.5_recall,Entire Graph,0.0,30000,2,1
+label_propagation,0.6_precision,Entire Graph,0.0,30000,2,1
+label_propagation,0.6_recall,Entire Graph,0.0,30000,2,1
+label_propagation,0.7_precision,Entire Graph,0.0,30000,2,1
+label_propagation,0.7_recall,Entire Graph,0.0,30000,2,1
+label_propagation,0.8_precision,Entire Graph,0.0,30000,2,1
+label_propagation,0.8_recall,Entire Graph,0.0,30000,2,1
+label_propagation,0.9_precision,Entire Graph,0.0,30000,2,1
+label_propagation,0.9_recall,Entire Graph,0.0,30000,2,1
+label_propagation,1.0_precision,Entire Graph,0.0,30000,2,1
+label_propagation,1.0_recall,Entire Graph,0.0,30000,2,1
+label_propagation,NLS,Entire Graph,0.91068052870730787,30000,2,1
+label_propagation,Block_size_median,Entire Graph,6000.0,30000,2,1
+label_propagation,Sample_block_num,Entire Graph,1,30000,2,1
+label_propagation,Original_block_num,Entire Graph,44,30000,2,1
+label_propagation,ANC,Entire Graph,0.022727272727272707,30000,2,1
+label_propagation,Scikit-learn NMI,Entire Graph,-5.5164206536062466e-06,30000,2,1
+label_propagation,Adjusted Rand Score,Entire Graph,0.0,30000,2,1
+label_propagation,Lancichinetti NMI,Entire Graph,0.0,30000,2,1
+label_propagation,0.5_precision,Entire Graph,0.0,30000,2,2
+label_propagation,0.5_recall,Entire Graph,0.0,30000,2,2
+label_propagation,0.6_precision,Entire Graph,0.0,30000,2,2
+label_propagation,0.6_recall,Entire Graph,0.0,30000,2,2
+label_propagation,0.7_precision,Entire Graph,0.0,30000,2,2
+label_propagation,0.7_recall,Entire Graph,0.0,30000,2,2
+label_propagation,0.8_precision,Entire Graph,0.0,30000,2,2
+label_propagation,0.8_recall,Entire Graph,0.0,30000,2,2
+label_propagation,0.9_precision,Entire Graph,0.0,30000,2,2
+label_propagation,0.9_recall,Entire Graph,0.0,30000,2,2
+label_propagation,1.0_precision,Entire Graph,0.0,30000,2,2
+label_propagation,1.0_recall,Entire Graph,0.0,30000,2,2
+label_propagation,NLS,Entire Graph,0.91068052870730787,30000,2,2
+label_propagation,Block_size_median,Entire Graph,6000.0,30000,2,2
+label_propagation,Sample_block_num,Entire Graph,1,30000,2,2
+label_propagation,Original_block_num,Entire Graph,44,30000,2,2
+label_propagation,ANC,Entire Graph,0.022727272727272707,30000,2,2
+label_propagation,Scikit-learn NMI,Entire Graph,-5.5164206536062466e-06,30000,2,2
+label_propagation,Adjusted Rand Score,Entire Graph,0.0,30000,2,2
+label_propagation,Lancichinetti NMI,Entire Graph,0.0,30000,2,2
+oslom,Modularity,Entire Graph,0.2956,30000,1,1
+oslom,Coverage,Entire Graph,0.3275,30000,1,1
+oslom,Conductance,Entire Graph,0.1875,30000,1,1
+oslom,Modularity,Entire Graph,0.2956,30000,1,2
+oslom,Coverage,Entire Graph,0.3275,30000,1,2
+oslom,Conductance,Entire Graph,0.1875,30000,1,2
+oslom,Modularity,Entire Graph,0.3211,30000,2,1
+oslom,Coverage,Entire Graph,0.3680,30000,2,1
+oslom,Conductance,Entire Graph,0.2111,30000,2,1
+oslom,Modularity,Entire Graph,0.3211,30000,2,2
+oslom,Coverage,Entire Graph,0.3680,30000,2,2
+oslom,Conductance,Entire Graph,0.2111,30000,2,2
+oslom,0.5_precision,Entire Graph,0.9717363290615345,30000,1,1
+oslom,0.5_recall,Entire Graph,0.16941461192827353,30000,1,1
+oslom,0.6_precision,Entire Graph,0.9717363290615345,30000,1,1
+oslom,0.6_recall,Entire Graph,0.16941461192827353,30000,1,1
+oslom,0.7_precision,Entire Graph,0.9717363290615345,30000,1,1
+oslom,0.7_recall,Entire Graph,0.16941461192827353,30000,1,1
+oslom,0.8_precision,Entire Graph,0.9717363290615345,30000,1,1
+oslom,0.8_recall,Entire Graph,0.16941461192827353,30000,1,1
+oslom,0.9_precision,Entire Graph,0.9575185405103505,30000,1,1
+oslom,0.9_recall,Entire Graph,0.1648829347619833,30000,1,1
+oslom,1.0_precision,Entire Graph,0.22580645161290322,30000,1,1
+oslom,1.0_recall,Entire Graph,0.041365076350044244,30000,1,1
+oslom,NLS,Entire Graph,0.78460572682104113,30000,1,1
+oslom,Block_size_median,Entire Graph,66.0,30000,1,1
+oslom,Sample_block_num,Entire Graph,62,30000,1,1
+oslom,Original_block_num,Entire Graph,47,30000,1,1
+oslom,ANC,Entire Graph,0.7580645161290323,30000,1,1
+oslom,Scikit-learn NMI,Entire Graph,0.90497584606117043,30000,1,1
+oslom,Adjusted Rand Score,Entire Graph,0.7230840184016907,30000,1,1
+oslom,Lancichinetti NMI,Entire Graph,0.753496,30000,1,1
+oslom,0.5_precision,Entire Graph,0.9717363290615345,30000,1,2
+oslom,0.5_recall,Entire Graph,0.16941461192827353,30000,1,2
+oslom,0.6_precision,Entire Graph,0.9717363290615345,30000,1,2
+oslom,0.6_recall,Entire Graph,0.16941461192827353,30000,1,2
+oslom,0.7_precision,Entire Graph,0.9717363290615345,30000,1,2
+oslom,0.7_recall,Entire Graph,0.16941461192827353,30000,1,2
+oslom,0.8_precision,Entire Graph,0.9717363290615345,30000,1,2
+oslom,0.8_recall,Entire Graph,0.16941461192827353,30000,1,2
+oslom,0.9_precision,Entire Graph,0.9575185405103505,30000,1,2
+oslom,0.9_recall,Entire Graph,0.1648829347619833,30000,1,2
+oslom,1.0_precision,Entire Graph,0.22580645161290322,30000,1,2
+oslom,1.0_recall,Entire Graph,0.041365076350044244,30000,1,2
+oslom,NLS,Entire Graph,0.78460572682104113,30000,1,2
+oslom,Block_size_median,Entire Graph,66.0,30000,1,2
+oslom,Sample_block_num,Entire Graph,62,30000,1,2
+oslom,Original_block_num,Entire Graph,47,30000,1,2
+oslom,ANC,Entire Graph,0.7580645161290323,30000,1,2
+oslom,Scikit-learn NMI,Entire Graph,0.90497584606117043,30000,1,2
+oslom,Adjusted Rand Score,Entire Graph,0.7230840184016907,30000,1,2
+oslom,Lancichinetti NMI,Entire Graph,0.753496,30000,1,2
+oslom,0.5_precision,Entire Graph,0.9675637592984507,30000,2,1
+oslom,0.5_recall,Entire Graph,0.17812588448594951,30000,2,1
+oslom,0.6_precision,Entire Graph,0.9675637592984507,30000,2,1
+oslom,0.6_recall,Entire Graph,0.17812588448594951,30000,2,1
+oslom,0.7_precision,Entire Graph,0.9675637592984507,30000,2,1
+oslom,0.7_recall,Entire Graph,0.17812588448594951,30000,2,1
+oslom,0.8_precision,Entire Graph,0.9675637592984507,30000,2,1
+oslom,0.8_recall,Entire Graph,0.17812588448594951,30000,2,1
+oslom,0.9_precision,Entire Graph,0.9503934296281209,30000,2,1
+oslom,0.9_recall,Entire Graph,0.17376643319555193,30000,2,1
+oslom,1.0_precision,Entire Graph,0.19230769230769232,30000,2,1
+oslom,1.0_recall,Entire Graph,0.037812908681769064,30000,2,1
+oslom,NLS,Entire Graph,0.84091289936881375,30000,2,1
+oslom,Block_size_median,Entire Graph,78.5,30000,2,1
+oslom,Sample_block_num,Entire Graph,52,30000,2,1
+oslom,Original_block_num,Entire Graph,44,30000,2,1
+oslom,ANC,Entire Graph,0.8461538461538461,30000,2,1
+oslom,Scikit-learn NMI,Entire Graph,0.90975032763778474,30000,2,1
+oslom,Adjusted Rand Score,Entire Graph,0.8218021320475906,30000,2,1
+oslom,Lancichinetti NMI,Entire Graph,0.804351,30000,2,1
+oslom,0.5_precision,Entire Graph,0.9675637592984507,30000,2,2
+oslom,0.5_recall,Entire Graph,0.17812588448594951,30000,2,2
+oslom,0.6_precision,Entire Graph,0.9675637592984507,30000,2,2
+oslom,0.6_recall,Entire Graph,0.17812588448594951,30000,2,2
+oslom,0.7_precision,Entire Graph,0.9675637592984507,30000,2,2
+oslom,0.7_recall,Entire Graph,0.17812588448594951,30000,2,2
+oslom,0.8_precision,Entire Graph,0.9675637592984507,30000,2,2
+oslom,0.8_recall,Entire Graph,0.17812588448594951,30000,2,2
+oslom,0.9_precision,Entire Graph,0.9503934296281209,30000,2,2
+oslom,0.9_recall,Entire Graph,0.17376643319555193,30000,2,2
+oslom,1.0_precision,Entire Graph,0.19230769230769232,30000,2,2
+oslom,1.0_recall,Entire Graph,0.037812908681769064,30000,2,2
+oslom,NLS,Entire Graph,0.84091289936881375,30000,2,2
+oslom,Block_size_median,Entire Graph,78.5,30000,2,2
+oslom,Sample_block_num,Entire Graph,52,30000,2,2
+oslom,Original_block_num,Entire Graph,44,30000,2,2
+oslom,ANC,Entire Graph,0.8461538461538461,30000,2,2
+oslom,Scikit-learn NMI,Entire Graph,0.90975032763778474,30000,2,2
+oslom,Adjusted Rand Score,Entire Graph,0.8218021320475906,30000,2,2
+oslom,Lancichinetti NMI,Entire Graph,0.804351,30000,2,2
+mod_opt,Modularity,Entire Graph,0.3918,30000,1,1
+mod_opt,Coverage,Entire Graph,0.4533,30000,1,1
+mod_opt,Conductance,Entire Graph,0.2651,30000,1,1
+mod_opt,Modularity,Entire Graph,0.3918,30000,1,2
+mod_opt,Coverage,Entire Graph,0.4533,30000,1,2
+mod_opt,Conductance,Entire Graph,0.2651,30000,1,2
+mod_opt,Modularity,Entire Graph,0.3908,30000,2,1
+mod_opt,Coverage,Entire Graph,0.4571,30000,2,1
+mod_opt,Conductance,Entire Graph,0.2729,30000,2,1
+mod_opt,Modularity,Entire Graph,0.3908,30000,2,2
+mod_opt,Coverage,Entire Graph,0.4571,30000,2,2
+mod_opt,Conductance,Entire Graph,0.2729,30000,2,2
+mod_opt,0.5_precision,Entire Graph,0.8904162304926534,30000,1,1
+mod_opt,0.5_recall,Entire Graph,0.12266640251031583,30000,1,1
+mod_opt,0.6_precision,Entire Graph,0.8723896650277576,30000,1,1
+mod_opt,0.6_recall,Entire Graph,0.11754924657172168,30000,1,1
+mod_opt,0.7_precision,Entire Graph,0.8723896650277576,30000,1,1
+mod_opt,0.7_recall,Entire Graph,0.11754924657172168,30000,1,1
+mod_opt,0.8_precision,Entire Graph,0.8723896650277576,30000,1,1
+mod_opt,0.8_recall,Entire Graph,0.11754924657172168,30000,1,1
+mod_opt,0.9_precision,Entire Graph,0.7924573432591546,30000,1,1
+mod_opt,0.9_recall,Entire Graph,0.10344491492532941,30000,1,1
+mod_opt,1.0_precision,Entire Graph,0.22580645161290322,30000,1,1
+mod_opt,1.0_recall,Entire Graph,0.028156049677963615,30000,1,1
+mod_opt,NLS,Entire Graph,0.84081372070381,30000,1,1
+mod_opt,Block_size_median,Entire Graph,169.0,30000,1,1
+mod_opt,Sample_block_num,Entire Graph,31,30000,1,1
+mod_opt,Original_block_num,Entire Graph,47,30000,1,1
+mod_opt,ANC,Entire Graph,0.6595744680851063,30000,1,1
+mod_opt,Scikit-learn NMI,Entire Graph,0.96208252843307107,30000,1,1
+mod_opt,Adjusted Rand Score,Entire Graph,0.9525920899231656,30000,1,1
+mod_opt,Lancichinetti NMI,Entire Graph,0.747464,30000,1,1
+mod_opt,0.5_precision,Entire Graph,0.8904162304926534,30000,1,2
+mod_opt,0.5_recall,Entire Graph,0.12266640251031583,30000,1,2
+mod_opt,0.6_precision,Entire Graph,0.8723896650277576,30000,1,2
+mod_opt,0.6_recall,Entire Graph,0.11754924657172168,30000,1,2
+mod_opt,0.7_precision,Entire Graph,0.8723896650277576,30000,1,2
+mod_opt,0.7_recall,Entire Graph,0.11754924657172168,30000,1,2
+mod_opt,0.8_precision,Entire Graph,0.8723896650277576,30000,1,2
+mod_opt,0.8_recall,Entire Graph,0.11754924657172168,30000,1,2
+mod_opt,0.9_precision,Entire Graph,0.7924573432591546,30000,1,2
+mod_opt,0.9_recall,Entire Graph,0.10344491492532941,30000,1,2
+mod_opt,1.0_precision,Entire Graph,0.22580645161290322,30000,1,2
+mod_opt,1.0_recall,Entire Graph,0.028156049677963615,30000,1,2
+mod_opt,NLS,Entire Graph,0.84081372070381,30000,1,2
+mod_opt,Block_size_median,Entire Graph,169.0,30000,1,2
+mod_opt,Sample_block_num,Entire Graph,31,30000,1,2
+mod_opt,Original_block_num,Entire Graph,47,30000,1,2
+mod_opt,ANC,Entire Graph,0.6595744680851063,30000,1,2
+mod_opt,Scikit-learn NMI,Entire Graph,0.96208252843307107,30000,1,2
+mod_opt,Adjusted Rand Score,Entire Graph,0.9525920899231656,30000,1,2
+mod_opt,Lancichinetti NMI,Entire Graph,0.747464,30000,1,2
+mod_opt,0.5_precision,Entire Graph,0.8016088504487068,30000,2,1
+mod_opt,0.5_recall,Entire Graph,0.10859400266333531,30000,2,1
+mod_opt,0.6_precision,Entire Graph,0.7183582608052747,30000,2,1
+mod_opt,0.6_recall,Entire Graph,0.09097407563561927,30000,2,1
+mod_opt,0.7_precision,Entire Graph,0.7183582608052747,30000,2,1
+mod_opt,0.7_recall,Entire Graph,0.09097407563561927,30000,2,1
+mod_opt,0.8_precision,Entire Graph,0.6901727059021626,30000,2,1
+mod_opt,0.8_recall,Entire Graph,0.08599275558580606,30000,2,1
+mod_opt,0.9_precision,Entire Graph,0.5628768145125668,30000,2,1
+mod_opt,0.9_recall,Entire Graph,0.0683143926080712,30000,2,1
+mod_opt,1.0_precision,Entire Graph,0.0,30000,2,1
+mod_opt,1.0_recall,Entire Graph,0.0,30000,2,1
+mod_opt,NLS,Entire Graph,0.88125410081910682,30000,2,1
+mod_opt,Block_size_median,Entire Graph,202.0,30000,2,1
+mod_opt,Sample_block_num,Entire Graph,26,30000,2,1
+mod_opt,Original_block_num,Entire Graph,44,30000,2,1
+mod_opt,ANC,Entire Graph,0.5909090909090908,30000,2,1
+mod_opt,Scikit-learn NMI,Entire Graph,0.93700953418376198,30000,2,1
+mod_opt,Adjusted Rand Score,Entire Graph,0.9290040521298946,30000,2,1
+mod_opt,Lancichinetti NMI,Entire Graph,0.699975,30000,2,1
+mod_opt,0.5_precision,Entire Graph,0.8016088504487068,30000,2,2
+mod_opt,0.5_recall,Entire Graph,0.10859400266333531,30000,2,2
+mod_opt,0.6_precision,Entire Graph,0.7183582608052747,30000,2,2
+mod_opt,0.6_recall,Entire Graph,0.09097407563561927,30000,2,2
+mod_opt,0.7_precision,Entire Graph,0.7183582608052747,30000,2,2
+mod_opt,0.7_recall,Entire Graph,0.09097407563561927,30000,2,2
+mod_opt,0.8_precision,Entire Graph,0.6901727059021626,30000,2,2
+mod_opt,0.8_recall,Entire Graph,0.08599275558580606,30000,2,2
+mod_opt,0.9_precision,Entire Graph,0.5628768145125668,30000,2,2
+mod_opt,0.9_recall,Entire Graph,0.0683143926080712,30000,2,2
+mod_opt,1.0_precision,Entire Graph,0.0,30000,2,2
+mod_opt,1.0_recall,Entire Graph,0.0,30000,2,2
+mod_opt,NLS,Entire Graph,0.88125410081910682,30000,2,2
+mod_opt,Block_size_median,Entire Graph,202.0,30000,2,2
+mod_opt,Sample_block_num,Entire Graph,26,30000,2,2
+mod_opt,Original_block_num,Entire Graph,44,30000,2,2
+mod_opt,ANC,Entire Graph,0.5909090909090908,30000,2,2
+mod_opt,Scikit-learn NMI,Entire Graph,0.93700953418376198,30000,2,2
+mod_opt,Adjusted Rand Score,Entire Graph,0.9290040521298946,30000,2,2
+mod_opt,Lancichinetti NMI,Entire Graph,0.699975,30000,2,2
+gold_standard,Modularity,Entire Graph,0.3974,50000,1,1
+gold_standard,Coverage,Entire Graph,0.4598,50000,1,1
+gold_standard,Conductance,Entire Graph,0.2373,50000,1,1
+gold_standard,Modularity,Entire Graph,0.3999,50000,2,1
+gold_standard,Coverage,Entire Graph,0.4552,50000,2,1
+gold_standard,Conductance,Entire Graph,0.2402,50000,2,1
+blondel,Modularity,Entire Graph,0.3926,50000,1,1
+blondel,Coverage,Entire Graph,0.4672,50000,1,1
+blondel,Conductance,Entire Graph,0.2387,50000,1,1
+blondel,Modularity,Entire Graph,0.3926,50000,1,2
+blondel,Coverage,Entire Graph,0.4672,50000,1,2
+blondel,Conductance,Entire Graph,0.2387,50000,1,2
+blondel,Modularity,Entire Graph,0.3960,50000,2,1
+blondel,Coverage,Entire Graph,0.4616,50000,2,1
+blondel,Conductance,Entire Graph,0.2287,50000,2,1
+blondel,Modularity,Entire Graph,0.3960,50000,2,2
+blondel,Coverage,Entire Graph,0.4616,50000,2,2
+blondel,Conductance,Entire Graph,0.2287,50000,2,2
+blondel,0.5_precision,Entire Graph,0.9584923016720767,50000,1,1
+blondel,0.5_recall,Entire Graph,0.15703899978563418,50000,1,1
+blondel,0.6_precision,Entire Graph,0.9193182218199113,50000,1,1
+blondel,0.6_recall,Entire Graph,0.14613093313964695,50000,1,1
+blondel,0.7_precision,Entire Graph,0.9193182218199113,50000,1,1
+blondel,0.7_recall,Entire Graph,0.14613093313964695,50000,1,1
+blondel,0.8_precision,Entire Graph,0.9193182218199113,50000,1,1
+blondel,0.8_recall,Entire Graph,0.14613093313964695,50000,1,1
+blondel,0.9_precision,Entire Graph,0.9193182218199113,50000,1,1
+blondel,0.9_recall,Entire Graph,0.14613093313964695,50000,1,1
+blondel,1.0_precision,Entire Graph,0.4418604651162791,50000,1,1
+blondel,1.0_recall,Entire Graph,0.06591464508723881,50000,1,1
+blondel,NLS,Entire Graph,0.88336402770750311,50000,1,1
+blondel,Block_size_median,Entire Graph,108.0,50000,1,1
+blondel,Sample_block_num,Entire Graph,43,50000,1,1
+blondel,Original_block_num,Entire Graph,53,50000,1,1
+blondel,ANC,Entire Graph,0.8113207547169812,50000,1,1
+blondel,Scikit-learn NMI,Entire Graph,0.95298128500846491,50000,1,1
+blondel,Adjusted Rand Score,Entire Graph,0.8857211194770641,50000,1,1
+blondel,Lancichinetti NMI,Entire Graph,0.835594,50000,1,1
+blondel,0.5_precision,Entire Graph,0.9584923016720767,50000,1,2
+blondel,0.5_recall,Entire Graph,0.15703899978563418,50000,1,2
+blondel,0.6_precision,Entire Graph,0.9193182218199113,50000,1,2
+blondel,0.6_recall,Entire Graph,0.14613093313964695,50000,1,2
+blondel,0.7_precision,Entire Graph,0.9193182218199113,50000,1,2
+blondel,0.7_recall,Entire Graph,0.14613093313964695,50000,1,2
+blondel,0.8_precision,Entire Graph,0.9193182218199113,50000,1,2
+blondel,0.8_recall,Entire Graph,0.14613093313964695,50000,1,2
+blondel,0.9_precision,Entire Graph,0.9193182218199113,50000,1,2
+blondel,0.9_recall,Entire Graph,0.14613093313964695,50000,1,2
+blondel,1.0_precision,Entire Graph,0.4418604651162791,50000,1,2
+blondel,1.0_recall,Entire Graph,0.06591464508723881,50000,1,2
+blondel,NLS,Entire Graph,0.88336402770750311,50000,1,2
+blondel,Block_size_median,Entire Graph,108.0,50000,1,2
+blondel,Sample_block_num,Entire Graph,43,50000,1,2
+blondel,Original_block_num,Entire Graph,53,50000,1,2
+blondel,ANC,Entire Graph,0.8113207547169812,50000,1,2
+blondel,Scikit-learn NMI,Entire Graph,0.95298128500846491,50000,1,2
+blondel,Adjusted Rand Score,Entire Graph,0.8857211194770641,50000,1,2
+blondel,Lancichinetti NMI,Entire Graph,0.835594,50000,1,2
+blondel,0.5_precision,Entire Graph,0.952759795887041,50000,2,1
+blondel,0.5_recall,Entire Graph,0.15275077235366455,50000,2,1
+blondel,0.6_precision,Entire Graph,0.9419900778002496,50000,2,1
+blondel,0.6_recall,Entire Graph,0.149769571455797,50000,2,1
+blondel,0.7_precision,Entire Graph,0.918944168059061,50000,2,1
+blondel,0.7_recall,Entire Graph,0.1465620934499319,50000,2,1
+blondel,0.8_precision,Entire Graph,0.8907186571358756,50000,2,1
+blondel,0.8_recall,Entire Graph,0.14019309100115201,50000,2,1
+blondel,0.9_precision,Entire Graph,0.8455138681534246,50000,2,1
+blondel,0.9_recall,Entire Graph,0.1307429122431742,50000,2,1
+blondel,1.0_precision,Entire Graph,0.5272727272727272,50000,2,1
+blondel,1.0_recall,Entire Graph,0.07779826468551929,50000,2,1
+blondel,NLS,Entire Graph,0.88862412920891376,50000,2,1
+blondel,Block_size_median,Entire Graph,80.0,50000,2,1
+blondel,Sample_block_num,Entire Graph,55,50000,2,1
+blondel,Original_block_num,Entire Graph,64,50000,2,1
+blondel,ANC,Entire Graph,0.859375,50000,2,1
+blondel,Scikit-learn NMI,Entire Graph,0.94956855573922594,50000,2,1
+blondel,Adjusted Rand Score,Entire Graph,0.8624428186788444,50000,2,1
+blondel,Lancichinetti NMI,Entire Graph,0.770082,50000,2,1
+blondel,0.5_precision,Entire Graph,0.952759795887041,50000,2,2
+blondel,0.5_recall,Entire Graph,0.15275077235366455,50000,2,2
+blondel,0.6_precision,Entire Graph,0.9419900778002496,50000,2,2
+blondel,0.6_recall,Entire Graph,0.149769571455797,50000,2,2
+blondel,0.7_precision,Entire Graph,0.918944168059061,50000,2,2
+blondel,0.7_recall,Entire Graph,0.1465620934499319,50000,2,2
+blondel,0.8_precision,Entire Graph,0.8907186571358756,50000,2,2
+blondel,0.8_recall,Entire Graph,0.14019309100115201,50000,2,2
+blondel,0.9_precision,Entire Graph,0.8455138681534246,50000,2,2
+blondel,0.9_recall,Entire Graph,0.1307429122431742,50000,2,2
+blondel,1.0_precision,Entire Graph,0.5272727272727272,50000,2,2
+blondel,1.0_recall,Entire Graph,0.07779826468551929,50000,2,2
+blondel,NLS,Entire Graph,0.88862412920891376,50000,2,2
+blondel,Block_size_median,Entire Graph,80.0,50000,2,2
+blondel,Sample_block_num,Entire Graph,55,50000,2,2
+blondel,Original_block_num,Entire Graph,64,50000,2,2
+blondel,ANC,Entire Graph,0.859375,50000,2,2
+blondel,Scikit-learn NMI,Entire Graph,0.94956855573922594,50000,2,2
+blondel,Adjusted Rand Score,Entire Graph,0.8624428186788444,50000,2,2
+blondel,Lancichinetti NMI,Entire Graph,0.770082,50000,2,2
+infomap,Modularity,Entire Graph,0.3972,50000,1,1
+infomap,Coverage,Entire Graph,0.4595,50000,1,1
+infomap,Conductance,Entire Graph,0.2140,50000,1,1
+infomap,Modularity,Entire Graph,0.3972,50000,1,2
+infomap,Coverage,Entire Graph,0.4595,50000,1,2
+infomap,Conductance,Entire Graph,0.2140,50000,1,2
+infomap,Modularity,Entire Graph,0.3998,50000,2,1
+infomap,Coverage,Entire Graph,0.4551,50000,2,1
+infomap,Conductance,Entire Graph,0.2287,50000,2,1
+infomap,Modularity,Entire Graph,0.3998,50000,2,2
+infomap,Coverage,Entire Graph,0.4551,50000,2,2
+infomap,Conductance,Entire Graph,0.2287,50000,2,2
+infomap,0.5_precision,Entire Graph,0.9475785100726359,50000,1,1
+infomap,0.5_recall,Entire Graph,0.18854850420785305,50000,1,1
+infomap,0.6_precision,Entire Graph,0.9475785100726359,50000,1,1
+infomap,0.6_recall,Entire Graph,0.18854850420785305,50000,1,1
+infomap,0.7_precision,Entire Graph,0.9354572979514238,50000,1,1
+infomap,0.7_recall,Entire Graph,0.18854850420785305,50000,1,1
+infomap,0.8_precision,Entire Graph,0.9354572979514238,50000,1,1
+infomap,0.8_recall,Entire Graph,0.18854850420785305,50000,1,1
+infomap,0.9_precision,Entire Graph,0.9047502272443533,50000,1,1
+infomap,0.9_recall,Entire Graph,0.1843161697646418,50000,1,1
+infomap,1.0_precision,Entire Graph,0.21818181818181817,50000,1,1
+infomap,1.0_recall,Entire Graph,0.04164294713304904,50000,1,1
+infomap,NLS,Entire Graph,0.90029184380068772,50000,1,1
+infomap,Block_size_median,Entire Graph,88.0,50000,1,1
+infomap,Sample_block_num,Entire Graph,55,50000,1,1
+infomap,Original_block_num,Entire Graph,53,50000,1,1
+infomap,ANC,Entire Graph,0.9636363636363636,50000,1,1
+infomap,Scikit-learn NMI,Entire Graph,0.98102314343092145,50000,1,1
+infomap,Adjusted Rand Score,Entire Graph,0.9809165005585282,50000,1,1
+infomap,Lancichinetti NMI,Entire Graph,0.833659,50000,1,1
+infomap,0.5_precision,Entire Graph,0.9475785100726359,50000,1,2
+infomap,0.5_recall,Entire Graph,0.18854850420785305,50000,1,2
+infomap,0.6_precision,Entire Graph,0.9475785100726359,50000,1,2
+infomap,0.6_recall,Entire Graph,0.18854850420785305,50000,1,2
+infomap,0.7_precision,Entire Graph,0.9354572979514238,50000,1,2
+infomap,0.7_recall,Entire Graph,0.18854850420785305,50000,1,2
+infomap,0.8_precision,Entire Graph,0.9354572979514238,50000,1,2
+infomap,0.8_recall,Entire Graph,0.18854850420785305,50000,1,2
+infomap,0.9_precision,Entire Graph,0.9047502272443533,50000,1,2
+infomap,0.9_recall,Entire Graph,0.1843161697646418,50000,1,2
+infomap,1.0_precision,Entire Graph,0.21818181818181817,50000,1,2
+infomap,1.0_recall,Entire Graph,0.04164294713304904,50000,1,2
+infomap,NLS,Entire Graph,0.90029184380068772,50000,1,2
+infomap,Block_size_median,Entire Graph,88.0,50000,1,2
+infomap,Sample_block_num,Entire Graph,55,50000,1,2
+infomap,Original_block_num,Entire Graph,53,50000,1,2
+infomap,ANC,Entire Graph,0.9636363636363636,50000,1,2
+infomap,Scikit-learn NMI,Entire Graph,0.98102314343092145,50000,1,2
+infomap,Adjusted Rand Score,Entire Graph,0.9809165005585282,50000,1,2
+infomap,Lancichinetti NMI,Entire Graph,0.833659,50000,1,2
+infomap,0.5_precision,Entire Graph,0.9749049668778726,50000,2,1
+infomap,0.5_recall,Entire Graph,0.19263463218917187,50000,2,1
+infomap,0.6_precision,Entire Graph,0.9749049668778726,50000,2,1
+infomap,0.6_recall,Entire Graph,0.19263463218917187,50000,2,1
+infomap,0.7_precision,Entire Graph,0.9547029466758525,50000,2,1
+infomap,0.7_recall,Entire Graph,0.19263463218917187,50000,2,1
+infomap,0.8_precision,Entire Graph,0.9427412241878143,50000,2,1
+infomap,0.8_recall,Entire Graph,0.18918794101270128,50000,2,1
+infomap,0.9_precision,Entire Graph,0.9427412241878143,50000,2,1
+infomap,0.9_recall,Entire Graph,0.18918794101270128,50000,2,1
+infomap,1.0_precision,Entire Graph,0.42424242424242425,50000,2,1
+infomap,1.0_recall,Entire Graph,0.07946019395490708,50000,2,1
+infomap,NLS,Entire Graph,0.91281921447304581,50000,2,1
+infomap,Block_size_median,Entire Graph,86.5,50000,2,1
+infomap,Sample_block_num,Entire Graph,66,50000,2,1
+infomap,Original_block_num,Entire Graph,64,50000,2,1
+infomap,ANC,Entire Graph,0.9696969696969697,50000,2,1
+infomap,Scikit-learn NMI,Entire Graph,0.98688658810174357,50000,2,1
+infomap,Adjusted Rand Score,Entire Graph,0.9830467914121571,50000,2,1
+infomap,Lancichinetti NMI,Entire Graph,0.895721,50000,2,1
+infomap,0.5_precision,Entire Graph,0.9749049668778726,50000,2,2
+infomap,0.5_recall,Entire Graph,0.19263463218917187,50000,2,2
+infomap,0.6_precision,Entire Graph,0.9749049668778726,50000,2,2
+infomap,0.6_recall,Entire Graph,0.19263463218917187,50000,2,2
+infomap,0.7_precision,Entire Graph,0.9547029466758525,50000,2,2
+infomap,0.7_recall,Entire Graph,0.19263463218917187,50000,2,2
+infomap,0.8_precision,Entire Graph,0.9427412241878143,50000,2,2
+infomap,0.8_recall,Entire Graph,0.18918794101270128,50000,2,2
+infomap,0.9_precision,Entire Graph,0.9427412241878143,50000,2,2
+infomap,0.9_recall,Entire Graph,0.18918794101270128,50000,2,2
+infomap,1.0_precision,Entire Graph,0.42424242424242425,50000,2,2
+infomap,1.0_recall,Entire Graph,0.07946019395490708,50000,2,2
+infomap,NLS,Entire Graph,0.91281921447304581,50000,2,2
+infomap,Block_size_median,Entire Graph,86.5,50000,2,2
+infomap,Sample_block_num,Entire Graph,66,50000,2,2
+infomap,Original_block_num,Entire Graph,64,50000,2,2
+infomap,ANC,Entire Graph,0.9696969696969697,50000,2,2
+infomap,Scikit-learn NMI,Entire Graph,0.98688658810174357,50000,2,2
+infomap,Adjusted Rand Score,Entire Graph,0.9830467914121571,50000,2,2
+infomap,Lancichinetti NMI,Entire Graph,0.895721,50000,2,2
+label_propagation,Modularity,Entire Graph,0.0000,50000,1,1
+label_propagation,Coverage,Entire Graph,1.0000,50000,1,1
+label_propagation,Conductance,Entire Graph,0.0,50000,1,1
+label_propagation,Modularity,Entire Graph,0.0000,50000,1,2
+label_propagation,Coverage,Entire Graph,1.0000,50000,1,2
+label_propagation,Conductance,Entire Graph,0.0,50000,1,2
+label_propagation,Modularity,Entire Graph,0.0000,50000,2,1
+label_propagation,Coverage,Entire Graph,1.0000,50000,2,1
+label_propagation,Conductance,Entire Graph,0.0,50000,2,1
+label_propagation,Modularity,Entire Graph,0.0000,50000,2,2
+label_propagation,Coverage,Entire Graph,1.0000,50000,2,2
+label_propagation,Conductance,Entire Graph,0.0,50000,2,2
+label_propagation,0.5_precision,Entire Graph,0.0,50000,1,1
+label_propagation,0.5_recall,Entire Graph,0.0,50000,1,1
+label_propagation,0.6_precision,Entire Graph,0.0,50000,1,1
+label_propagation,0.6_recall,Entire Graph,0.0,50000,1,1
+label_propagation,0.7_precision,Entire Graph,0.0,50000,1,1
+label_propagation,0.7_recall,Entire Graph,0.0,50000,1,1
+label_propagation,0.8_precision,Entire Graph,0.0,50000,1,1
+label_propagation,0.8_recall,Entire Graph,0.0,50000,1,1
+label_propagation,0.9_precision,Entire Graph,0.0,50000,1,1
+label_propagation,0.9_recall,Entire Graph,0.0,50000,1,1
+label_propagation,1.0_precision,Entire Graph,0.0,50000,1,1
+label_propagation,1.0_recall,Entire Graph,0.0,50000,1,1
+label_propagation,NLS,Entire Graph,0.90121955951367394,50000,1,1
+label_propagation,Block_size_median,Entire Graph,10000.0,50000,1,1
+label_propagation,Sample_block_num,Entire Graph,1,50000,1,1
+label_propagation,Original_block_num,Entire Graph,53,50000,1,1
+label_propagation,ANC,Entire Graph,0.018867924528301883,50000,1,1
+label_propagation,Scikit-learn NMI,Entire Graph,1.0495077029659683e-05,50000,1,1
+label_propagation,Adjusted Rand Score,Entire Graph,0.0,50000,1,1
+label_propagation,Lancichinetti NMI,Entire Graph,0.0,50000,1,1
+label_propagation,0.5_precision,Entire Graph,0.0,50000,1,2
+label_propagation,0.5_recall,Entire Graph,0.0,50000,1,2
+label_propagation,0.6_precision,Entire Graph,0.0,50000,1,2
+label_propagation,0.6_recall,Entire Graph,0.0,50000,1,2
+label_propagation,0.7_precision,Entire Graph,0.0,50000,1,2
+label_propagation,0.7_recall,Entire Graph,0.0,50000,1,2
+label_propagation,0.8_precision,Entire Graph,0.0,50000,1,2
+label_propagation,0.8_recall,Entire Graph,0.0,50000,1,2
+label_propagation,0.9_precision,Entire Graph,0.0,50000,1,2
+label_propagation,0.9_recall,Entire Graph,0.0,50000,1,2
+label_propagation,1.0_precision,Entire Graph,0.0,50000,1,2
+label_propagation,1.0_recall,Entire Graph,0.0,50000,1,2
+label_propagation,NLS,Entire Graph,0.90121955951367394,50000,1,2
+label_propagation,Block_size_median,Entire Graph,10000.0,50000,1,2
+label_propagation,Sample_block_num,Entire Graph,1,50000,1,2
+label_propagation,Original_block_num,Entire Graph,53,50000,1,2
+label_propagation,ANC,Entire Graph,0.018867924528301883,50000,1,2
+label_propagation,Scikit-learn NMI,Entire Graph,1.0495077029659683e-05,50000,1,2
+label_propagation,Adjusted Rand Score,Entire Graph,0.0,50000,1,2
+label_propagation,Lancichinetti NMI,Entire Graph,0.0,50000,1,2
+label_propagation,0.5_precision,Entire Graph,0.0,50000,2,1
+label_propagation,0.5_recall,Entire Graph,0.0,50000,2,1
+label_propagation,0.6_precision,Entire Graph,0.0,50000,2,1
+label_propagation,0.6_recall,Entire Graph,0.0,50000,2,1
+label_propagation,0.7_precision,Entire Graph,0.0,50000,2,1
+label_propagation,0.7_recall,Entire Graph,0.0,50000,2,1
+label_propagation,0.8_precision,Entire Graph,0.0,50000,2,1
+label_propagation,0.8_recall,Entire Graph,0.0,50000,2,1
+label_propagation,0.9_precision,Entire Graph,0.0,50000,2,1
+label_propagation,0.9_recall,Entire Graph,0.0,50000,2,1
+label_propagation,1.0_precision,Entire Graph,0.0,50000,2,1
+label_propagation,1.0_recall,Entire Graph,0.0,50000,2,1
+label_propagation,NLS,Entire Graph,0.91913834386328741,50000,2,1
+label_propagation,Block_size_median,Entire Graph,10000.0,50000,2,1
+label_propagation,Sample_block_num,Entire Graph,1,50000,2,1
+label_propagation,Original_block_num,Entire Graph,64,50000,2,1
+label_propagation,ANC,Entire Graph,0.015625,50000,2,1
+label_propagation,Scikit-learn NMI,Entire Graph,1.0885389811754465e-05,50000,2,1
+label_propagation,Adjusted Rand Score,Entire Graph,0.0,50000,2,1
+label_propagation,Lancichinetti NMI,Entire Graph,0.0,50000,2,1
+label_propagation,0.5_precision,Entire Graph,0.0,50000,2,2
+label_propagation,0.5_recall,Entire Graph,0.0,50000,2,2
+label_propagation,0.6_precision,Entire Graph,0.0,50000,2,2
+label_propagation,0.6_recall,Entire Graph,0.0,50000,2,2
+label_propagation,0.7_precision,Entire Graph,0.0,50000,2,2
+label_propagation,0.7_recall,Entire Graph,0.0,50000,2,2
+label_propagation,0.8_precision,Entire Graph,0.0,50000,2,2
+label_propagation,0.8_recall,Entire Graph,0.0,50000,2,2
+label_propagation,0.9_precision,Entire Graph,0.0,50000,2,2
+label_propagation,0.9_recall,Entire Graph,0.0,50000,2,2
+label_propagation,1.0_precision,Entire Graph,0.0,50000,2,2
+label_propagation,1.0_recall,Entire Graph,0.0,50000,2,2
+label_propagation,NLS,Entire Graph,0.91913834386328741,50000,2,2
+label_propagation,Block_size_median,Entire Graph,10000.0,50000,2,2
+label_propagation,Sample_block_num,Entire Graph,1,50000,2,2
+label_propagation,Original_block_num,Entire Graph,64,50000,2,2
+label_propagation,ANC,Entire Graph,0.015625,50000,2,2
+label_propagation,Scikit-learn NMI,Entire Graph,1.0885389811754465e-05,50000,2,2
+label_propagation,Adjusted Rand Score,Entire Graph,0.0,50000,2,2
+label_propagation,Lancichinetti NMI,Entire Graph,0.0,50000,2,2
+oslom,Modularity,Entire Graph,0.2999,50000,1,1
+oslom,Coverage,Entire Graph,0.3325,50000,1,1
+oslom,Conductance,Entire Graph,0.1903,50000,1,1
+oslom,Modularity,Entire Graph,0.2999,50000,1,2
+oslom,Coverage,Entire Graph,0.3325,50000,1,2
+oslom,Conductance,Entire Graph,0.1903,50000,1,2
+oslom,Modularity,Entire Graph,0.2854,50000,2,1
+oslom,Coverage,Entire Graph,0.3083,50000,2,1
+oslom,Conductance,Entire Graph,0.1900,50000,2,1
+oslom,Modularity,Entire Graph,0.2854,50000,2,2
+oslom,Coverage,Entire Graph,0.3083,50000,2,2
+oslom,Conductance,Entire Graph,0.1900,50000,2,2
+oslom,0.5_precision,Entire Graph,0.9612124725319708,50000,1,1
+oslom,0.5_recall,Entire Graph,0.1694527227225033,50000,1,1
+oslom,0.6_precision,Entire Graph,0.9612124725319708,50000,1,1
+oslom,0.6_recall,Entire Graph,0.1694527227225033,50000,1,1
+oslom,0.7_precision,Entire Graph,0.9612124725319708,50000,1,1
+oslom,0.7_recall,Entire Graph,0.1694527227225033,50000,1,1
+oslom,0.8_precision,Entire Graph,0.9612124725319708,50000,1,1
+oslom,0.8_recall,Entire Graph,0.1694527227225033,50000,1,1
+oslom,0.9_precision,Entire Graph,0.9129236597082743,50000,1,1
+oslom,0.9_recall,Entire Graph,0.16253073345639105,50000,1,1
+oslom,1.0_precision,Entire Graph,0.125,50000,1,1
+oslom,1.0_recall,Entire Graph,0.022866490563305305,50000,1,1
+oslom,NLS,Entire Graph,0.81527886737024358,50000,1,1
+oslom,Block_size_median,Entire Graph,98.5,50000,1,1
+oslom,Sample_block_num,Entire Graph,72,50000,1,1
+oslom,Original_block_num,Entire Graph,53,50000,1,1
+oslom,ANC,Entire Graph,0.7361111111111112,50000,1,1
+oslom,Scikit-learn NMI,Entire Graph,0.8979564056105207,50000,1,1
+oslom,Adjusted Rand Score,Entire Graph,0.6936808989671995,50000,1,1
+oslom,Lancichinetti NMI,Entire Graph,0.765804,50000,1,1
+oslom,0.5_precision,Entire Graph,0.9612124725319708,50000,1,2
+oslom,0.5_recall,Entire Graph,0.1694527227225033,50000,1,2
+oslom,0.6_precision,Entire Graph,0.9612124725319708,50000,1,2
+oslom,0.6_recall,Entire Graph,0.1694527227225033,50000,1,2
+oslom,0.7_precision,Entire Graph,0.9612124725319708,50000,1,2
+oslom,0.7_recall,Entire Graph,0.1694527227225033,50000,1,2
+oslom,0.8_precision,Entire Graph,0.9612124725319708,50000,1,2
+oslom,0.8_recall,Entire Graph,0.1694527227225033,50000,1,2
+oslom,0.9_precision,Entire Graph,0.9129236597082743,50000,1,2
+oslom,0.9_recall,Entire Graph,0.16253073345639105,50000,1,2
+oslom,1.0_precision,Entire Graph,0.125,50000,1,2
+oslom,1.0_recall,Entire Graph,0.022866490563305305,50000,1,2
+oslom,NLS,Entire Graph,0.81527886737024358,50000,1,2
+oslom,Block_size_median,Entire Graph,98.5,50000,1,2
+oslom,Sample_block_num,Entire Graph,72,50000,1,2
+oslom,Original_block_num,Entire Graph,53,50000,1,2
+oslom,ANC,Entire Graph,0.7361111111111112,50000,1,2
+oslom,Scikit-learn NMI,Entire Graph,0.8979564056105207,50000,1,2
+oslom,Adjusted Rand Score,Entire Graph,0.6936808989671995,50000,1,2
+oslom,Lancichinetti NMI,Entire Graph,0.765804,50000,1,2
+oslom,0.5_precision,Entire Graph,0.9744007607214862,50000,2,1
+oslom,0.5_recall,Entire Graph,0.1728190451326426,50000,2,1
+oslom,0.6_precision,Entire Graph,0.9744007607214862,50000,2,1
+oslom,0.6_recall,Entire Graph,0.1728190451326426,50000,2,1
+oslom,0.7_precision,Entire Graph,0.9744007607214862,50000,2,1
+oslom,0.7_recall,Entire Graph,0.1728190451326426,50000,2,1
+oslom,0.8_precision,Entire Graph,0.9655056296353439,50000,2,1
+oslom,0.8_recall,Entire Graph,0.16981017688939937,50000,2,1
+oslom,0.9_precision,Entire Graph,0.9466027875996533,50000,2,1
+oslom,0.9_recall,Entire Graph,0.1630190041075776,50000,2,1
+oslom,1.0_precision,Entire Graph,0.24719101123595505,50000,2,1
+oslom,1.0_recall,Entire Graph,0.036463525013362474,50000,2,1
+oslom,NLS,Entire Graph,0.82278637598320903,50000,2,1
+oslom,Block_size_median,Entire Graph,94.0,50000,2,1
+oslom,Sample_block_num,Entire Graph,89,50000,2,1
+oslom,Original_block_num,Entire Graph,64,50000,2,1
+oslom,ANC,Entire Graph,0.7191011235955056,50000,2,1
+oslom,Scikit-learn NMI,Entire Graph,0.91031926600016533,50000,2,1
+oslom,Adjusted Rand Score,Entire Graph,0.6687311326820571,50000,2,1
+oslom,Lancichinetti NMI,Entire Graph,0.756203,50000,2,1
+oslom,0.5_precision,Entire Graph,0.9744007607214862,50000,2,2
+oslom,0.5_recall,Entire Graph,0.1728190451326426,50000,2,2
+oslom,0.6_precision,Entire Graph,0.9744007607214862,50000,2,2
+oslom,0.6_recall,Entire Graph,0.1728190451326426,50000,2,2
+oslom,0.7_precision,Entire Graph,0.9744007607214862,50000,2,2
+oslom,0.7_recall,Entire Graph,0.1728190451326426,50000,2,2
+oslom,0.8_precision,Entire Graph,0.9655056296353439,50000,2,2
+oslom,0.8_recall,Entire Graph,0.16981017688939937,50000,2,2
+oslom,0.9_precision,Entire Graph,0.9466027875996533,50000,2,2
+oslom,0.9_recall,Entire Graph,0.1630190041075776,50000,2,2
+oslom,1.0_precision,Entire Graph,0.24719101123595505,50000,2,2
+oslom,1.0_recall,Entire Graph,0.036463525013362474,50000,2,2
+oslom,NLS,Entire Graph,0.82278637598320903,50000,2,2
+oslom,Block_size_median,Entire Graph,94.0,50000,2,2
+oslom,Sample_block_num,Entire Graph,89,50000,2,2
+oslom,Original_block_num,Entire Graph,64,50000,2,2
+oslom,ANC,Entire Graph,0.7191011235955056,50000,2,2
+oslom,Scikit-learn NMI,Entire Graph,0.91031926600016533,50000,2,2
+oslom,Adjusted Rand Score,Entire Graph,0.6687311326820571,50000,2,2
+oslom,Lancichinetti NMI,Entire Graph,0.756203,50000,2,2
+mod_opt,Modularity,Entire Graph,0.3972,50000,1,1
+mod_opt,Coverage,Entire Graph,0.4604,50000,1,1
+mod_opt,Conductance,Entire Graph,0.2587,50000,1,1
+mod_opt,Modularity,Entire Graph,0.3972,50000,1,2
+mod_opt,Coverage,Entire Graph,0.4604,50000,1,2
+mod_opt,Conductance,Entire Graph,0.2587,50000,1,2
+mod_opt,Modularity,Entire Graph,0.3997,50000,2,1
+mod_opt,Coverage,Entire Graph,0.4560,50000,2,1
+mod_opt,Conductance,Entire Graph,0.2531,50000,2,1
+mod_opt,Modularity,Entire Graph,0.3997,50000,2,2
+mod_opt,Coverage,Entire Graph,0.4560,50000,2,2
+mod_opt,Conductance,Entire Graph,0.2531,50000,2,2
+mod_opt,0.5_precision,Entire Graph,0.9374353931691563,50000,1,1
+mod_opt,0.5_recall,Entire Graph,0.13689225609519898,50000,1,1
+mod_opt,0.6_precision,Entire Graph,0.9072207522987777,50000,1,1
+mod_opt,0.6_recall,Entire Graph,0.1294982868377539,50000,1,1
+mod_opt,0.7_precision,Entire Graph,0.8901709922583634,50000,1,1
+mod_opt,0.7_recall,Entire Graph,0.12605616547110424,50000,1,1
+mod_opt,0.8_precision,Entire Graph,0.8490874656675903,50000,1,1
+mod_opt,0.8_recall,Entire Graph,0.11869106501050426,50000,1,1
+mod_opt,0.9_precision,Entire Graph,0.8271663001695987,50000,1,1
+mod_opt,0.9_recall,Entire Graph,0.11467289589799554,50000,1,1
+mod_opt,1.0_precision,Entire Graph,0.1891891891891892,50000,1,1
+mod_opt,1.0_recall,Entire Graph,0.024863168984824442,50000,1,1
+mod_opt,NLS,Entire Graph,0.88721991231939989,50000,1,1
+mod_opt,Block_size_median,Entire Graph,179.0,50000,1,1
+mod_opt,Sample_block_num,Entire Graph,37,50000,1,1
+mod_opt,Original_block_num,Entire Graph,53,50000,1,1
+mod_opt,ANC,Entire Graph,0.6981132075471699,50000,1,1
+mod_opt,Scikit-learn NMI,Entire Graph,0.97005426924485649,50000,1,1
+mod_opt,Adjusted Rand Score,Entire Graph,0.9693763159271642,50000,1,1
+mod_opt,Lancichinetti NMI,Entire Graph,0.799333,50000,1,1
+mod_opt,0.5_precision,Entire Graph,0.9374353931691563,50000,1,2
+mod_opt,0.5_recall,Entire Graph,0.13689225609519898,50000,1,2
+mod_opt,0.6_precision,Entire Graph,0.9072207522987777,50000,1,2
+mod_opt,0.6_recall,Entire Graph,0.1294982868377539,50000,1,2
+mod_opt,0.7_precision,Entire Graph,0.8901709922583634,50000,1,2
+mod_opt,0.7_recall,Entire Graph,0.12605616547110424,50000,1,2
+mod_opt,0.8_precision,Entire Graph,0.8490874656675903,50000,1,2
+mod_opt,0.8_recall,Entire Graph,0.11869106501050426,50000,1,2
+mod_opt,0.9_precision,Entire Graph,0.8271663001695987,50000,1,2
+mod_opt,0.9_recall,Entire Graph,0.11467289589799554,50000,1,2
+mod_opt,1.0_precision,Entire Graph,0.1891891891891892,50000,1,2
+mod_opt,1.0_recall,Entire Graph,0.024863168984824442,50000,1,2
+mod_opt,NLS,Entire Graph,0.88721991231939989,50000,1,2
+mod_opt,Block_size_median,Entire Graph,179.0,50000,1,2
+mod_opt,Sample_block_num,Entire Graph,37,50000,1,2
+mod_opt,Original_block_num,Entire Graph,53,50000,1,2
+mod_opt,ANC,Entire Graph,0.6981132075471699,50000,1,2
+mod_opt,Scikit-learn NMI,Entire Graph,0.97005426924485649,50000,1,2
+mod_opt,Adjusted Rand Score,Entire Graph,0.9693763159271642,50000,1,2
+mod_opt,Lancichinetti NMI,Entire Graph,0.799333,50000,1,2
+mod_opt,0.5_precision,Entire Graph,0.9336425594848751,50000,2,1
+mod_opt,0.5_recall,Entire Graph,0.1483530748541865,50000,2,1
+mod_opt,0.6_precision,Entire Graph,0.899872718215034,50000,2,1
+mod_opt,0.6_recall,Entire Graph,0.13923670737835162,50000,2,1
+mod_opt,0.7_precision,Entire Graph,0.899872718215034,50000,2,1
+mod_opt,0.7_recall,Entire Graph,0.13923670737835162,50000,2,1
+mod_opt,0.8_precision,Entire Graph,0.8691794608551099,50000,2,1
+mod_opt,0.8_recall,Entire Graph,0.13377809857403009,50000,2,1
+mod_opt,0.9_precision,Entire Graph,0.8517584082235311,50000,2,1
+mod_opt,0.9_recall,Entire Graph,0.130509931117474,50000,2,1
+mod_opt,1.0_precision,Entire Graph,0.36,50000,2,1
+mod_opt,1.0_recall,Entire Graph,0.05348991746263171,50000,2,1
+mod_opt,NLS,Entire Graph,0.90646241427787733,50000,2,1
+mod_opt,Block_size_median,Entire Graph,135.0,50000,2,1
+mod_opt,Sample_block_num,Entire Graph,50,50000,2,1
+mod_opt,Original_block_num,Entire Graph,64,50000,2,1
+mod_opt,ANC,Entire Graph,0.78125,50000,2,1
+mod_opt,Scikit-learn NMI,Entire Graph,0.97668339484986721,50000,2,1
+mod_opt,Adjusted Rand Score,Entire Graph,0.963746828541032,50000,2,1
+mod_opt,Lancichinetti NMI,Entire Graph,0.84595,50000,2,1
+mod_opt,0.5_precision,Entire Graph,0.9336425594848751,50000,2,2
+mod_opt,0.5_recall,Entire Graph,0.1483530748541865,50000,2,2
+mod_opt,0.6_precision,Entire Graph,0.899872718215034,50000,2,2
+mod_opt,0.6_recall,Entire Graph,0.13923670737835162,50000,2,2
+mod_opt,0.7_precision,Entire Graph,0.899872718215034,50000,2,2
+mod_opt,0.7_recall,Entire Graph,0.13923670737835162,50000,2,2
+mod_opt,0.8_precision,Entire Graph,0.8691794608551099,50000,2,2
+mod_opt,0.8_recall,Entire Graph,0.13377809857403009,50000,2,2
+mod_opt,0.9_precision,Entire Graph,0.8517584082235311,50000,2,2
+mod_opt,0.9_recall,Entire Graph,0.130509931117474,50000,2,2
+mod_opt,1.0_precision,Entire Graph,0.36,50000,2,2
+mod_opt,1.0_recall,Entire Graph,0.05348991746263171,50000,2,2
+mod_opt,NLS,Entire Graph,0.90646241427787733,50000,2,2
+mod_opt,Block_size_median,Entire Graph,135.0,50000,2,2
+mod_opt,Sample_block_num,Entire Graph,50,50000,2,2
+mod_opt,Original_block_num,Entire Graph,64,50000,2,2
+mod_opt,ANC,Entire Graph,0.78125,50000,2,2
+mod_opt,Scikit-learn NMI,Entire Graph,0.97668339484986721,50000,2,2
+mod_opt,Adjusted Rand Score,Entire Graph,0.963746828541032,50000,2,2
+mod_opt,Lancichinetti NMI,Entire Graph,0.84595,50000,2,2
+gold_standard,Modularity,Entire Graph,0.3976,70000,1,1
+gold_standard,Coverage,Entire Graph,0.4658,70000,1,1
+gold_standard,Conductance,Entire Graph,0.2656,70000,1,1
+gold_standard,Modularity,Entire Graph,0.4011,70000,2,1
+gold_standard,Coverage,Entire Graph,0.4634,70000,2,1
+gold_standard,Conductance,Entire Graph,0.2324,70000,2,1
+blondel,Modularity,Entire Graph,0.3924,70000,1,1
+blondel,Coverage,Entire Graph,0.4734,70000,1,1
+blondel,Conductance,Entire Graph,0.2665,70000,1,1
+blondel,Modularity,Entire Graph,0.3924,70000,1,2
+blondel,Coverage,Entire Graph,0.4734,70000,1,2
+blondel,Conductance,Entire Graph,0.2665,70000,1,2
+blondel,Modularity,Entire Graph,0.3992,70000,2,1
+blondel,Coverage,Entire Graph,0.4665,70000,2,1
+blondel,Conductance,Entire Graph,0.2322,70000,2,1
+blondel,Modularity,Entire Graph,0.3992,70000,2,2
+blondel,Coverage,Entire Graph,0.4665,70000,2,2
+blondel,Conductance,Entire Graph,0.2322,70000,2,2
+blondel,0.5_precision,Entire Graph,0.9544892178664506,70000,1,1
+blondel,0.5_recall,Entire Graph,0.17093017778111028,70000,1,1
+blondel,0.6_precision,Entire Graph,0.9320159829468637,70000,1,1
+blondel,0.6_recall,Entire Graph,0.16460076961066122,70000,1,1
+blondel,0.7_precision,Entire Graph,0.9320159829468637,70000,1,1
+blondel,0.7_recall,Entire Graph,0.16460076961066122,70000,1,1
+blondel,0.8_precision,Entire Graph,0.9047250130471981,70000,1,1
+blondel,0.8_recall,Entire Graph,0.1579351376417675,70000,1,1
+blondel,0.9_precision,Entire Graph,0.873748814357995,70000,1,1
+blondel,0.9_recall,Entire Graph,0.15135903277559637,70000,1,1
+blondel,1.0_precision,Entire Graph,0.23076923076923078,70000,1,1
+blondel,1.0_recall,Entire Graph,0.04303076391908542,70000,1,1
+blondel,NLS,Entire Graph,0.91286353632933759,70000,1,1
+blondel,Block_size_median,Entire Graph,270.5,70000,1,1
+blondel,Sample_block_num,Entire Graph,26,70000,1,1
+blondel,Original_block_num,Entire Graph,31,70000,1,1
+blondel,ANC,Entire Graph,0.8387096774193549,70000,1,1
+blondel,Scikit-learn NMI,Entire Graph,0.94366804623655876,70000,1,1
+blondel,Adjusted Rand Score,Entire Graph,0.8848064757028211,70000,1,1
+blondel,Lancichinetti NMI,Entire Graph,0.836469,70000,1,1
+blondel,0.5_precision,Entire Graph,0.9544892178664506,70000,1,2
+blondel,0.5_recall,Entire Graph,0.17093017778111028,70000,1,2
+blondel,0.6_precision,Entire Graph,0.9320159829468637,70000,1,2
+blondel,0.6_recall,Entire Graph,0.16460076961066122,70000,1,2
+blondel,0.7_precision,Entire Graph,0.9320159829468637,70000,1,2
+blondel,0.7_recall,Entire Graph,0.16460076961066122,70000,1,2
+blondel,0.8_precision,Entire Graph,0.9047250130471981,70000,1,2
+blondel,0.8_recall,Entire Graph,0.1579351376417675,70000,1,2
+blondel,0.9_precision,Entire Graph,0.873748814357995,70000,1,2
+blondel,0.9_recall,Entire Graph,0.15135903277559637,70000,1,2
+blondel,1.0_precision,Entire Graph,0.23076923076923078,70000,1,2
+blondel,1.0_recall,Entire Graph,0.04303076391908542,70000,1,2
+blondel,NLS,Entire Graph,0.91286353632933759,70000,1,2
+blondel,Block_size_median,Entire Graph,270.5,70000,1,2
+blondel,Sample_block_num,Entire Graph,26,70000,1,2
+blondel,Original_block_num,Entire Graph,31,70000,1,2
+blondel,ANC,Entire Graph,0.8387096774193549,70000,1,2
+blondel,Scikit-learn NMI,Entire Graph,0.94366804623655876,70000,1,2
+blondel,Adjusted Rand Score,Entire Graph,0.8848064757028211,70000,1,2
+blondel,Lancichinetti NMI,Entire Graph,0.836469,70000,1,2
+blondel,0.5_precision,Entire Graph,0.9851459572184472,70000,2,1
+blondel,0.5_recall,Entire Graph,0.16819775888478064,70000,2,1
+blondel,0.6_precision,Entire Graph,0.9851459572184472,70000,2,1
+blondel,0.6_recall,Entire Graph,0.16819775888478064,70000,2,1
+blondel,0.7_precision,Entire Graph,0.9851459572184472,70000,2,1
+blondel,0.7_recall,Entire Graph,0.16819775888478064,70000,2,1
+blondel,0.8_precision,Entire Graph,0.9738573071430324,70000,2,1
+blondel,0.8_recall,Entire Graph,0.16563591906662312,70000,2,1
+blondel,0.9_precision,Entire Graph,0.9610149785075424,70000,2,1
+blondel,0.9_recall,Entire Graph,0.1629584004147736,70000,2,1
+blondel,1.0_precision,Entire Graph,0.546875,70000,2,1
+blondel,1.0_recall,Entire Graph,0.0895740462783503,70000,2,1
+blondel,NLS,Entire Graph,0.85765633457874113,70000,2,1
+blondel,Block_size_median,Entire Graph,88.0,70000,2,1
+blondel,Sample_block_num,Entire Graph,64,70000,2,1
+blondel,Original_block_num,Entire Graph,75,70000,2,1
+blondel,ANC,Entire Graph,0.8533333333333333,70000,2,1
+blondel,Scikit-learn NMI,Entire Graph,0.97059718498073111,70000,2,1
+blondel,Adjusted Rand Score,Entire Graph,0.925595355489898,70000,2,1
+blondel,Lancichinetti NMI,Entire Graph,0.849733,70000,2,1
+blondel,0.5_precision,Entire Graph,0.9851459572184472,70000,2,2
+blondel,0.5_recall,Entire Graph,0.16819775888478064,70000,2,2
+blondel,0.6_precision,Entire Graph,0.9851459572184472,70000,2,2
+blondel,0.6_recall,Entire Graph,0.16819775888478064,70000,2,2
+blondel,0.7_precision,Entire Graph,0.9851459572184472,70000,2,2
+blondel,0.7_recall,Entire Graph,0.16819775888478064,70000,2,2
+blondel,0.8_precision,Entire Graph,0.9738573071430324,70000,2,2
+blondel,0.8_recall,Entire Graph,0.16563591906662312,70000,2,2
+blondel,0.9_precision,Entire Graph,0.9610149785075424,70000,2,2
+blondel,0.9_recall,Entire Graph,0.1629584004147736,70000,2,2
+blondel,1.0_precision,Entire Graph,0.546875,70000,2,2
+blondel,1.0_recall,Entire Graph,0.0895740462783503,70000,2,2
+blondel,NLS,Entire Graph,0.85765633457874113,70000,2,2
+blondel,Block_size_median,Entire Graph,88.0,70000,2,2
+blondel,Sample_block_num,Entire Graph,64,70000,2,2
+blondel,Original_block_num,Entire Graph,75,70000,2,2
+blondel,ANC,Entire Graph,0.8533333333333333,70000,2,2
+blondel,Scikit-learn NMI,Entire Graph,0.97059718498073111,70000,2,2
+blondel,Adjusted Rand Score,Entire Graph,0.925595355489898,70000,2,2
+blondel,Lancichinetti NMI,Entire Graph,0.849733,70000,2,2
+infomap,Modularity,Entire Graph,0.3973,70000,1,1
+infomap,Coverage,Entire Graph,0.4654,70000,1,1
+infomap,Conductance,Entire Graph,0.1857,70000,1,1
+infomap,Modularity,Entire Graph,0.3973,70000,1,2
+infomap,Coverage,Entire Graph,0.4654,70000,1,2
+infomap,Conductance,Entire Graph,0.1857,70000,1,2
+infomap,Modularity,Entire Graph,0.4009,70000,2,1
+infomap,Coverage,Entire Graph,0.4632,70000,2,1
+infomap,Conductance,Entire Graph,0.2150,70000,2,1
+infomap,Modularity,Entire Graph,0.4009,70000,2,2
+infomap,Coverage,Entire Graph,0.4632,70000,2,2
+infomap,Conductance,Entire Graph,0.2150,70000,2,2
+infomap,0.5_precision,Entire Graph,0.8514517093852398,70000,1,1
+infomap,0.5_recall,Entire Graph,0.1979840457735251,70000,1,1
+infomap,0.6_precision,Entire Graph,0.8251359199115555,70000,1,1
+infomap,0.6_recall,Entire Graph,0.1979840457735251,70000,1,1
+infomap,0.7_precision,Entire Graph,0.8251359199115555,70000,1,1
+infomap,0.7_recall,Entire Graph,0.1979840457735251,70000,1,1
+infomap,0.8_precision,Entire Graph,0.8251359199115555,70000,1,1
+infomap,0.8_recall,Entire Graph,0.1979840457735251,70000,1,1
+infomap,0.9_precision,Entire Graph,0.8251359199115555,70000,1,1
+infomap,0.9_recall,Entire Graph,0.1979840457735251,70000,1,1
+infomap,1.0_precision,Entire Graph,0.07894736842105263,70000,1,1
+infomap,1.0_recall,Entire Graph,0.013213218087075776,70000,1,1
+infomap,NLS,Entire Graph,0.9225382037356582,70000,1,1
+infomap,Block_size_median,Entire Graph,193.0,70000,1,1
+infomap,Sample_block_num,Entire Graph,38,70000,1,1
+infomap,Original_block_num,Entire Graph,31,70000,1,1
+infomap,ANC,Entire Graph,0.8157894736842105,70000,1,1
+infomap,Scikit-learn NMI,Entire Graph,0.96480067491750221,70000,1,1
+infomap,Adjusted Rand Score,Entire Graph,0.9660757475394854,70000,1,1
+infomap,Lancichinetti NMI,Entire Graph,0.674959,70000,1,1
+infomap,0.5_precision,Entire Graph,0.8514517093852398,70000,1,2
+infomap,0.5_recall,Entire Graph,0.1979840457735251,70000,1,2
+infomap,0.6_precision,Entire Graph,0.8251359199115555,70000,1,2
+infomap,0.6_recall,Entire Graph,0.1979840457735251,70000,1,2
+infomap,0.7_precision,Entire Graph,0.8251359199115555,70000,1,2
+infomap,0.7_recall,Entire Graph,0.1979840457735251,70000,1,2
+infomap,0.8_precision,Entire Graph,0.8251359199115555,70000,1,2
+infomap,0.8_recall,Entire Graph,0.1979840457735251,70000,1,2
+infomap,0.9_precision,Entire Graph,0.8251359199115555,70000,1,2
+infomap,0.9_recall,Entire Graph,0.1979840457735251,70000,1,2
+infomap,1.0_precision,Entire Graph,0.07894736842105263,70000,1,2
+infomap,1.0_recall,Entire Graph,0.013213218087075776,70000,1,2
+infomap,NLS,Entire Graph,0.9225382037356582,70000,1,2
+infomap,Block_size_median,Entire Graph,193.0,70000,1,2
+infomap,Sample_block_num,Entire Graph,38,70000,1,2
+infomap,Original_block_num,Entire Graph,31,70000,1,2
+infomap,ANC,Entire Graph,0.8157894736842105,70000,1,2
+infomap,Scikit-learn NMI,Entire Graph,0.96480067491750221,70000,1,2
+infomap,Adjusted Rand Score,Entire Graph,0.9660757475394854,70000,1,2
+infomap,Lancichinetti NMI,Entire Graph,0.674959,70000,1,2
+infomap,0.5_precision,Entire Graph,0.9728376171070331,70000,2,1
+infomap,0.5_recall,Entire Graph,0.19415785490435233,70000,2,1
+infomap,0.6_precision,Entire Graph,0.9728376171070331,70000,2,1
+infomap,0.6_recall,Entire Graph,0.19415785490435233,70000,2,1
+infomap,0.7_precision,Entire Graph,0.9728376171070331,70000,2,1
+infomap,0.7_recall,Entire Graph,0.19415785490435233,70000,2,1
+infomap,0.8_precision,Entire Graph,0.9728376171070331,70000,2,1
+infomap,0.8_recall,Entire Graph,0.19415785490435233,70000,2,1
+infomap,0.9_precision,Entire Graph,0.9143190985885146,70000,2,1
+infomap,0.9_recall,Entire Graph,0.18422341818966761,70000,2,1
+infomap,1.0_precision,Entire Graph,0.22666666666666666,70000,2,1
+infomap,1.0_recall,Entire Graph,0.043311871306054434,70000,2,1
+infomap,NLS,Entire Graph,0.8807910848494932,70000,2,1
+infomap,Block_size_median,Entire Graph,77.0,70000,2,1
+infomap,Sample_block_num,Entire Graph,75,70000,2,1
+infomap,Original_block_num,Entire Graph,75,70000,2,1
+infomap,ANC,Entire Graph,1.0,70000,2,1
+infomap,Scikit-learn NMI,Entire Graph,0.98227385500862752,70000,2,1
+infomap,Adjusted Rand Score,Entire Graph,0.9799383477050552,70000,2,1
+infomap,Lancichinetti NMI,Entire Graph,0.860537,70000,2,1
+infomap,0.5_precision,Entire Graph,0.9728376171070331,70000,2,2
+infomap,0.5_recall,Entire Graph,0.19415785490435233,70000,2,2
+infomap,0.6_precision,Entire Graph,0.9728376171070331,70000,2,2
+infomap,0.6_recall,Entire Graph,0.19415785490435233,70000,2,2
+infomap,0.7_precision,Entire Graph,0.9728376171070331,70000,2,2
+infomap,0.7_recall,Entire Graph,0.19415785490435233,70000,2,2
+infomap,0.8_precision,Entire Graph,0.9728376171070331,70000,2,2
+infomap,0.8_recall,Entire Graph,0.19415785490435233,70000,2,2
+infomap,0.9_precision,Entire Graph,0.9143190985885146,70000,2,2
+infomap,0.9_recall,Entire Graph,0.18422341818966761,70000,2,2
+infomap,1.0_precision,Entire Graph,0.22666666666666666,70000,2,2
+infomap,1.0_recall,Entire Graph,0.043311871306054434,70000,2,2
+infomap,NLS,Entire Graph,0.8807910848494932,70000,2,2
+infomap,Block_size_median,Entire Graph,77.0,70000,2,2
+infomap,Sample_block_num,Entire Graph,75,70000,2,2
+infomap,Original_block_num,Entire Graph,75,70000,2,2
+infomap,ANC,Entire Graph,1.0,70000,2,2
+infomap,Scikit-learn NMI,Entire Graph,0.98227385500862752,70000,2,2
+infomap,Adjusted Rand Score,Entire Graph,0.9799383477050552,70000,2,2
+infomap,Lancichinetti NMI,Entire Graph,0.860537,70000,2,2
+label_propagation,Modularity,Entire Graph,0.0000,70000,1,1
+label_propagation,Coverage,Entire Graph,1.0000,70000,1,1
+label_propagation,Conductance,Entire Graph,0.0,70000,1,1
+label_propagation,Modularity,Entire Graph,0.0000,70000,1,2
+label_propagation,Coverage,Entire Graph,1.0000,70000,1,2
+label_propagation,Conductance,Entire Graph,0.0,70000,1,2
+label_propagation,Modularity,Entire Graph,0.0000,70000,2,1
+label_propagation,Coverage,Entire Graph,1.0000,70000,2,1
+label_propagation,Conductance,Entire Graph,0.0,70000,2,1
+label_propagation,Modularity,Entire Graph,0.0000,70000,2,2
+label_propagation,Coverage,Entire Graph,1.0000,70000,2,2
+label_propagation,Conductance,Entire Graph,0.0,70000,2,2
+label_propagation,0.5_precision,Entire Graph,0.0,70000,1,1
+label_propagation,0.5_recall,Entire Graph,0.0,70000,1,1
+label_propagation,0.6_precision,Entire Graph,0.0,70000,1,1
+label_propagation,0.6_recall,Entire Graph,0.0,70000,1,1
+label_propagation,0.7_precision,Entire Graph,0.0,70000,1,1
+label_propagation,0.7_recall,Entire Graph,0.0,70000,1,1
+label_propagation,0.8_precision,Entire Graph,0.0,70000,1,1
+label_propagation,0.8_recall,Entire Graph,0.0,70000,1,1
+label_propagation,0.9_precision,Entire Graph,0.0,70000,1,1
+label_propagation,0.9_recall,Entire Graph,0.0,70000,1,1
+label_propagation,1.0_precision,Entire Graph,0.0,70000,1,1
+label_propagation,1.0_recall,Entire Graph,0.0,70000,1,1
+label_propagation,NLS,Entire Graph,0.92399914324403376,70000,1,1
+label_propagation,Block_size_median,Entire Graph,14000.0,70000,1,1
+label_propagation,Sample_block_num,Entire Graph,1,70000,1,1
+label_propagation,Original_block_num,Entire Graph,31,70000,1,1
+label_propagation,ANC,Entire Graph,0.032258064516129004,70000,1,1
+label_propagation,Scikit-learn NMI,Entire Graph,9.3675067702747583e-07,70000,1,1
+label_propagation,Adjusted Rand Score,Entire Graph,0.0,70000,1,1
+label_propagation,Lancichinetti NMI,Entire Graph,0.0,70000,1,1
+label_propagation,0.5_precision,Entire Graph,0.0,70000,1,2
+label_propagation,0.5_recall,Entire Graph,0.0,70000,1,2
+label_propagation,0.6_precision,Entire Graph,0.0,70000,1,2
+label_propagation,0.6_recall,Entire Graph,0.0,70000,1,2
+label_propagation,0.7_precision,Entire Graph,0.0,70000,1,2
+label_propagation,0.7_recall,Entire Graph,0.0,70000,1,2
+label_propagation,0.8_precision,Entire Graph,0.0,70000,1,2
+label_propagation,0.8_recall,Entire Graph,0.0,70000,1,2
+label_propagation,0.9_precision,Entire Graph,0.0,70000,1,2
+label_propagation,0.9_recall,Entire Graph,0.0,70000,1,2
+label_propagation,1.0_precision,Entire Graph,0.0,70000,1,2
+label_propagation,1.0_recall,Entire Graph,0.0,70000,1,2
+label_propagation,NLS,Entire Graph,0.92399914324403376,70000,1,2
+label_propagation,Block_size_median,Entire Graph,14000.0,70000,1,2
+label_propagation,Sample_block_num,Entire Graph,1,70000,1,2
+label_propagation,Original_block_num,Entire Graph,31,70000,1,2
+label_propagation,ANC,Entire Graph,0.032258064516129004,70000,1,2
+label_propagation,Scikit-learn NMI,Entire Graph,9.3675067702747583e-07,70000,1,2
+label_propagation,Adjusted Rand Score,Entire Graph,0.0,70000,1,2
+label_propagation,Lancichinetti NMI,Entire Graph,0.0,70000,1,2
+label_propagation,0.5_precision,Entire Graph,0.0,70000,2,1
+label_propagation,0.5_recall,Entire Graph,0.0,70000,2,1
+label_propagation,0.6_precision,Entire Graph,0.0,70000,2,1
+label_propagation,0.6_recall,Entire Graph,0.0,70000,2,1
+label_propagation,0.7_precision,Entire Graph,0.0,70000,2,1
+label_propagation,0.7_recall,Entire Graph,0.0,70000,2,1
+label_propagation,0.8_precision,Entire Graph,0.0,70000,2,1
+label_propagation,0.8_recall,Entire Graph,0.0,70000,2,1
+label_propagation,0.9_precision,Entire Graph,0.0,70000,2,1
+label_propagation,0.9_recall,Entire Graph,0.0,70000,2,1
+label_propagation,1.0_precision,Entire Graph,0.0,70000,2,1
+label_propagation,1.0_recall,Entire Graph,0.0,70000,2,1
+label_propagation,NLS,Entire Graph,0.89000038835946371,70000,2,1
+label_propagation,Block_size_median,Entire Graph,14000.0,70000,2,1
+label_propagation,Sample_block_num,Entire Graph,1,70000,2,1
+label_propagation,Original_block_num,Entire Graph,75,70000,2,1
+label_propagation,ANC,Entire Graph,0.013333333333333308,70000,2,1
+label_propagation,Scikit-learn NMI,Entire Graph,-1.717376241217039e-06,70000,2,1
+label_propagation,Adjusted Rand Score,Entire Graph,0.0,70000,2,1
+label_propagation,Lancichinetti NMI,Entire Graph,0.0,70000,2,1
+label_propagation,0.5_precision,Entire Graph,0.0,70000,2,2
+label_propagation,0.5_recall,Entire Graph,0.0,70000,2,2
+label_propagation,0.6_precision,Entire Graph,0.0,70000,2,2
+label_propagation,0.6_recall,Entire Graph,0.0,70000,2,2
+label_propagation,0.7_precision,Entire Graph,0.0,70000,2,2
+label_propagation,0.7_recall,Entire Graph,0.0,70000,2,2
+label_propagation,0.8_precision,Entire Graph,0.0,70000,2,2
+label_propagation,0.8_recall,Entire Graph,0.0,70000,2,2
+label_propagation,0.9_precision,Entire Graph,0.0,70000,2,2
+label_propagation,0.9_recall,Entire Graph,0.0,70000,2,2
+label_propagation,1.0_precision,Entire Graph,0.0,70000,2,2
+label_propagation,1.0_recall,Entire Graph,0.0,70000,2,2
+label_propagation,NLS,Entire Graph,0.89000038835946371,70000,2,2
+label_propagation,Block_size_median,Entire Graph,14000.0,70000,2,2
+label_propagation,Sample_block_num,Entire Graph,1,70000,2,2
+label_propagation,Original_block_num,Entire Graph,75,70000,2,2
+label_propagation,ANC,Entire Graph,0.013333333333333308,70000,2,2
+label_propagation,Scikit-learn NMI,Entire Graph,-1.717376241217039e-06,70000,2,2
+label_propagation,Adjusted Rand Score,Entire Graph,0.0,70000,2,2
+label_propagation,Lancichinetti NMI,Entire Graph,0.0,70000,2,2
+oslom,Modularity,Entire Graph,0.3195,70000,1,1
+oslom,Coverage,Entire Graph,0.3666,70000,1,1
+oslom,Conductance,Entire Graph,0.1978,70000,1,1
+oslom,Modularity,Entire Graph,0.3195,70000,1,2
+oslom,Coverage,Entire Graph,0.3666,70000,1,2
+oslom,Conductance,Entire Graph,0.1978,70000,1,2
+oslom,Modularity,Entire Graph,0.2800,70000,2,1
+oslom,Coverage,Entire Graph,0.3050,70000,2,1
+oslom,Conductance,Entire Graph,0.1886,70000,2,1
+oslom,Modularity,Entire Graph,0.2800,70000,2,2
+oslom,Coverage,Entire Graph,0.3050,70000,2,2
+oslom,Conductance,Entire Graph,0.1886,70000,2,2
+oslom,0.5_precision,Entire Graph,0.9475491385432663,70000,1,1
+oslom,0.5_recall,Entire Graph,0.16951016050918158,70000,1,1
+oslom,0.6_precision,Entire Graph,0.9475491385432663,70000,1,1
+oslom,0.6_recall,Entire Graph,0.16951016050918158,70000,1,1
+oslom,0.7_precision,Entire Graph,0.9475491385432663,70000,1,1
+oslom,0.7_recall,Entire Graph,0.16951016050918158,70000,1,1
+oslom,0.8_precision,Entire Graph,0.9475491385432663,70000,1,1
+oslom,0.8_recall,Entire Graph,0.16951016050918158,70000,1,1
+oslom,0.9_precision,Entire Graph,0.8536066519342963,70000,1,1
+oslom,0.9_recall,Entire Graph,0.1418077264522046,70000,1,1
+oslom,1.0_precision,Entire Graph,0.021739130434782608,70000,1,1
+oslom,1.0_recall,Entire Graph,0.006243496357960458,70000,1,1
+oslom,NLS,Entire Graph,0.79127300843467041,70000,1,1
+oslom,Block_size_median,Entire Graph,216.5,70000,1,1
+oslom,Sample_block_num,Entire Graph,46,70000,1,1
+oslom,Original_block_num,Entire Graph,31,70000,1,1
+oslom,ANC,Entire Graph,0.6739130434782609,70000,1,1
+oslom,Scikit-learn NMI,Entire Graph,0.88480448582451587,70000,1,1
+oslom,Adjusted Rand Score,Entire Graph,0.8051631803307076,70000,1,1
+oslom,Lancichinetti NMI,Entire Graph,0.708404,70000,1,1
+oslom,0.5_precision,Entire Graph,0.9475491385432663,70000,1,2
+oslom,0.5_recall,Entire Graph,0.16951016050918158,70000,1,2
+oslom,0.6_precision,Entire Graph,0.9475491385432663,70000,1,2
+oslom,0.6_recall,Entire Graph,0.16951016050918158,70000,1,2
+oslom,0.7_precision,Entire Graph,0.9475491385432663,70000,1,2
+oslom,0.7_recall,Entire Graph,0.16951016050918158,70000,1,2
+oslom,0.8_precision,Entire Graph,0.9475491385432663,70000,1,2
+oslom,0.8_recall,Entire Graph,0.16951016050918158,70000,1,2
+oslom,0.9_precision,Entire Graph,0.8536066519342963,70000,1,2
+oslom,0.9_recall,Entire Graph,0.1418077264522046,70000,1,2
+oslom,1.0_precision,Entire Graph,0.021739130434782608,70000,1,2
+oslom,1.0_recall,Entire Graph,0.006243496357960458,70000,1,2
+oslom,NLS,Entire Graph,0.79127300843467041,70000,1,2
+oslom,Block_size_median,Entire Graph,216.5,70000,1,2
+oslom,Sample_block_num,Entire Graph,46,70000,1,2
+oslom,Original_block_num,Entire Graph,31,70000,1,2
+oslom,ANC,Entire Graph,0.6739130434782609,70000,1,2
+oslom,Scikit-learn NMI,Entire Graph,0.88480448582451587,70000,1,2
+oslom,Adjusted Rand Score,Entire Graph,0.8051631803307076,70000,1,2
+oslom,Lancichinetti NMI,Entire Graph,0.708404,70000,1,2
+oslom,0.5_precision,Entire Graph,0.9545572581967469,70000,2,1
+oslom,0.5_recall,Entire Graph,0.17038634857787097,70000,2,1
+oslom,0.6_precision,Entire Graph,0.9545572581967469,70000,2,1
+oslom,0.6_recall,Entire Graph,0.17038634857787097,70000,2,1
+oslom,0.7_precision,Entire Graph,0.9545572581967469,70000,2,1
+oslom,0.7_recall,Entire Graph,0.17038634857787097,70000,2,1
+oslom,0.8_precision,Entire Graph,0.9545572581967469,70000,2,1
+oslom,0.8_recall,Entire Graph,0.17038634857787097,70000,2,1
+oslom,0.9_precision,Entire Graph,0.9020018893825547,70000,2,1
+oslom,0.9_recall,Entire Graph,0.15448967043229972,70000,2,1
+oslom,1.0_precision,Entire Graph,0.07,70000,2,1
+oslom,1.0_recall,Entire Graph,0.01427046142907435,70000,2,1
+oslom,NLS,Entire Graph,0.78485050469455764,70000,2,1
+oslom,Block_size_median,Entire Graph,96.5,70000,2,1
+oslom,Sample_block_num,Entire Graph,100,70000,2,1
+oslom,Original_block_num,Entire Graph,75,70000,2,1
+oslom,ANC,Entire Graph,0.75,70000,2,1
+oslom,Scikit-learn NMI,Entire Graph,0.8814757570519185,70000,2,1
+oslom,Adjusted Rand Score,Entire Graph,0.6248477047852925,70000,2,1
+oslom,Lancichinetti NMI,Entire Graph,0.733453,70000,2,1
+oslom,0.5_precision,Entire Graph,0.9545572581967469,70000,2,2
+oslom,0.5_recall,Entire Graph,0.17038634857787097,70000,2,2
+oslom,0.6_precision,Entire Graph,0.9545572581967469,70000,2,2
+oslom,0.6_recall,Entire Graph,0.17038634857787097,70000,2,2
+oslom,0.7_precision,Entire Graph,0.9545572581967469,70000,2,2
+oslom,0.7_recall,Entire Graph,0.17038634857787097,70000,2,2
+oslom,0.8_precision,Entire Graph,0.9545572581967469,70000,2,2
+oslom,0.8_recall,Entire Graph,0.17038634857787097,70000,2,2
+oslom,0.9_precision,Entire Graph,0.9020018893825547,70000,2,2
+oslom,0.9_recall,Entire Graph,0.15448967043229972,70000,2,2
+oslom,1.0_precision,Entire Graph,0.07,70000,2,2
+oslom,1.0_recall,Entire Graph,0.01427046142907435,70000,2,2
+oslom,NLS,Entire Graph,0.78485050469455764,70000,2,2
+oslom,Block_size_median,Entire Graph,96.5,70000,2,2
+oslom,Sample_block_num,Entire Graph,100,70000,2,2
+oslom,Original_block_num,Entire Graph,75,70000,2,2
+oslom,ANC,Entire Graph,0.75,70000,2,2
+oslom,Scikit-learn NMI,Entire Graph,0.8814757570519185,70000,2,2
+oslom,Adjusted Rand Score,Entire Graph,0.6248477047852925,70000,2,2
+oslom,Lancichinetti NMI,Entire Graph,0.733453,70000,2,2
+mod_opt,Modularity,Entire Graph,0.3971,70000,1,1
+mod_opt,Coverage,Entire Graph,0.4668,70000,1,1
+mod_opt,Conductance,Entire Graph,0.2847,70000,1,1
+mod_opt,Modularity,Entire Graph,0.3971,70000,1,2
+mod_opt,Coverage,Entire Graph,0.4668,70000,1,2
+mod_opt,Conductance,Entire Graph,0.2847,70000,1,2
+mod_opt,Modularity,Entire Graph,0.4005,70000,2,1
+mod_opt,Coverage,Entire Graph,0.4650,70000,2,1
+mod_opt,Conductance,Entire Graph,0.2575,70000,2,1
+mod_opt,Modularity,Entire Graph,0.4005,70000,2,2
+mod_opt,Coverage,Entire Graph,0.4650,70000,2,2
+mod_opt,Conductance,Entire Graph,0.2575,70000,2,2
+mod_opt,0.5_precision,Entire Graph,0.9308774313713706,70000,1,1
+mod_opt,0.5_recall,Entire Graph,0.13416427213695142,70000,1,1
+mod_opt,0.6_precision,Entire Graph,0.9308774313713706,70000,1,1
+mod_opt,0.6_recall,Entire Graph,0.13416427213695142,70000,1,1
+mod_opt,0.7_precision,Entire Graph,0.9308774313713706,70000,1,1
+mod_opt,0.7_recall,Entire Graph,0.13416427213695142,70000,1,1
+mod_opt,0.8_precision,Entire Graph,0.9308774313713706,70000,1,1
+mod_opt,0.8_recall,Entire Graph,0.13416427213695142,70000,1,1
+mod_opt,0.9_precision,Entire Graph,0.890989602809509,70000,1,1
+mod_opt,0.9_recall,Entire Graph,0.1278348639665024,70000,1,1
+mod_opt,1.0_precision,Entire Graph,0.045454545454545456,70000,1,1
+mod_opt,1.0_recall,Entire Graph,0.0059833506763787726,70000,1,1
+mod_opt,NLS,Entire Graph,0.90586796995311758,70000,1,1
+mod_opt,Block_size_median,Entire Graph,591.0,70000,1,1
+mod_opt,Sample_block_num,Entire Graph,22,70000,1,1
+mod_opt,Original_block_num,Entire Graph,31,70000,1,1
+mod_opt,ANC,Entire Graph,0.7096774193548387,70000,1,1
+mod_opt,Scikit-learn NMI,Entire Graph,0.95397057300825561,70000,1,1
+mod_opt,Adjusted Rand Score,Entire Graph,0.9482230072123237,70000,1,1
+mod_opt,Lancichinetti NMI,Entire Graph,0.781637,70000,1,1
+mod_opt,0.5_precision,Entire Graph,0.9308774313713706,70000,1,2
+mod_opt,0.5_recall,Entire Graph,0.13416427213695142,70000,1,2
+mod_opt,0.6_precision,Entire Graph,0.9308774313713706,70000,1,2
+mod_opt,0.6_recall,Entire Graph,0.13416427213695142,70000,1,2
+mod_opt,0.7_precision,Entire Graph,0.9308774313713706,70000,1,2
+mod_opt,0.7_recall,Entire Graph,0.13416427213695142,70000,1,2
+mod_opt,0.8_precision,Entire Graph,0.9308774313713706,70000,1,2
+mod_opt,0.8_recall,Entire Graph,0.13416427213695142,70000,1,2
+mod_opt,0.9_precision,Entire Graph,0.890989602809509,70000,1,2
+mod_opt,0.9_recall,Entire Graph,0.1278348639665024,70000,1,2
+mod_opt,1.0_precision,Entire Graph,0.045454545454545456,70000,1,2
+mod_opt,1.0_recall,Entire Graph,0.0059833506763787726,70000,1,2
+mod_opt,NLS,Entire Graph,0.90586796995311758,70000,1,2
+mod_opt,Block_size_median,Entire Graph,591.0,70000,1,2
+mod_opt,Sample_block_num,Entire Graph,22,70000,1,2
+mod_opt,Original_block_num,Entire Graph,31,70000,1,2
+mod_opt,ANC,Entire Graph,0.7096774193548387,70000,1,2
+mod_opt,Scikit-learn NMI,Entire Graph,0.95397057300825561,70000,1,2
+mod_opt,Adjusted Rand Score,Entire Graph,0.9482230072123237,70000,1,2
+mod_opt,Lancichinetti NMI,Entire Graph,0.781637,70000,1,2
+mod_opt,0.5_precision,Entire Graph,0.9044121107540286,70000,2,1
+mod_opt,0.5_recall,Entire Graph,0.12073356740243175,70000,2,1
+mod_opt,0.6_precision,Entire Graph,0.9044121107540286,70000,2,1
+mod_opt,0.6_recall,Entire Graph,0.12073356740243175,70000,2,1
+mod_opt,0.7_precision,Entire Graph,0.8626667782980005,70000,2,1
+mod_opt,0.7_recall,Entire Graph,0.11289727797121155,70000,2,1
+mod_opt,0.8_precision,Entire Graph,0.8475108470826114,70000,2,1
+mod_opt,0.8_recall,Entire Graph,0.11012394463787821,70000,2,1
+mod_opt,0.9_precision,Entire Graph,0.774611318829578,70000,2,1
+mod_opt,0.9_recall,Entire Graph,0.09932698412758548,70000,2,1
+mod_opt,1.0_precision,Entire Graph,0.2978723404255319,70000,2,1
+mod_opt,1.0_recall,Entire Graph,0.036408017050032736,70000,2,1
+mod_opt,NLS,Entire Graph,0.85967151545771625,70000,2,1
+mod_opt,Block_size_median,Entire Graph,206.0,70000,2,1
+mod_opt,Sample_block_num,Entire Graph,47,70000,2,1
+mod_opt,Original_block_num,Entire Graph,75,70000,2,1
+mod_opt,ANC,Entire Graph,0.6266666666666667,70000,2,1
+mod_opt,Scikit-learn NMI,Entire Graph,0.95948226565094019,70000,2,1
+mod_opt,Adjusted Rand Score,Entire Graph,0.9402332797130263,70000,2,1
+mod_opt,Lancichinetti NMI,Entire Graph,0.736547,70000,2,1
+mod_opt,0.5_precision,Entire Graph,0.9044121107540286,70000,2,2
+mod_opt,0.5_recall,Entire Graph,0.12073356740243175,70000,2,2
+mod_opt,0.6_precision,Entire Graph,0.9044121107540286,70000,2,2
+mod_opt,0.6_recall,Entire Graph,0.12073356740243175,70000,2,2
+mod_opt,0.7_precision,Entire Graph,0.8626667782980005,70000,2,2
+mod_opt,0.7_recall,Entire Graph,0.11289727797121155,70000,2,2
+mod_opt,0.8_precision,Entire Graph,0.8475108470826114,70000,2,2
+mod_opt,0.8_recall,Entire Graph,0.11012394463787821,70000,2,2
+mod_opt,0.9_precision,Entire Graph,0.774611318829578,70000,2,2
+mod_opt,0.9_recall,Entire Graph,0.09932698412758548,70000,2,2
+mod_opt,1.0_precision,Entire Graph,0.2978723404255319,70000,2,2
+mod_opt,1.0_recall,Entire Graph,0.036408017050032736,70000,2,2
+mod_opt,NLS,Entire Graph,0.85967151545771625,70000,2,2
+mod_opt,Block_size_median,Entire Graph,206.0,70000,2,2
+mod_opt,Sample_block_num,Entire Graph,47,70000,2,2
+mod_opt,Original_block_num,Entire Graph,75,70000,2,2
+mod_opt,ANC,Entire Graph,0.6266666666666667,70000,2,2
+mod_opt,Scikit-learn NMI,Entire Graph,0.95948226565094019,70000,2,2
+mod_opt,Adjusted Rand Score,Entire Graph,0.9402332797130263,70000,2,2
+mod_opt,Lancichinetti NMI,Entire Graph,0.736547,70000,2,2
+gold_standard,Modularity,Entire Graph,0.4078,90000,1,1
+gold_standard,Coverage,Entire Graph,0.4645,90000,1,1
+gold_standard,Conductance,Entire Graph,0.2406,90000,1,1
+gold_standard,Modularity,Entire Graph,0.4048,90000,2,1
+gold_standard,Coverage,Entire Graph,0.4608,90000,2,1
+gold_standard,Conductance,Entire Graph,0.2369,90000,2,1
+blondel,Modularity,Entire Graph,0.4016,90000,1,1
+blondel,Coverage,Entire Graph,0.4730,90000,1,1
+blondel,Conductance,Entire Graph,0.2364,90000,1,1
+blondel,Modularity,Entire Graph,0.4016,90000,1,2
+blondel,Coverage,Entire Graph,0.4730,90000,1,2
+blondel,Conductance,Entire Graph,0.2364,90000,1,2
+blondel,Modularity,Entire Graph,0.4011,90000,2,1
+blondel,Coverage,Entire Graph,0.4662,90000,2,1
+blondel,Conductance,Entire Graph,0.2239,90000,2,1
+blondel,Modularity,Entire Graph,0.4011,90000,2,2
+blondel,Coverage,Entire Graph,0.4662,90000,2,2
+blondel,Conductance,Entire Graph,0.2239,90000,2,2
+blondel,0.5_precision,Entire Graph,0.9517628791573257,90000,1,1
+blondel,0.5_recall,Entire Graph,0.15786598674726482,90000,1,1
+blondel,0.6_precision,Entire Graph,0.9417129623520013,90000,1,1
+blondel,0.6_recall,Entire Graph,0.15468026552951758,90000,1,1
+blondel,0.7_precision,Entire Graph,0.9417129623520013,90000,1,1
+blondel,0.7_recall,Entire Graph,0.15468026552951758,90000,1,1
+blondel,0.8_precision,Entire Graph,0.9273190229580619,90000,1,1
+blondel,0.8_recall,Entire Graph,0.15147939219649872,90000,1,1
+blondel,0.9_precision,Entire Graph,0.9096155096761425,90000,1,1
+blondel,0.9_recall,Entire Graph,0.1481464675470527,90000,1,1
+blondel,1.0_precision,Entire Graph,0.38,90000,1,1
+blondel,1.0_recall,Entire Graph,0.06145222256827629,90000,1,1
+blondel,NLS,Entire Graph,0.89931873615873248,90000,1,1
+blondel,Block_size_median,Entire Graph,89.5,90000,1,1
+blondel,Sample_block_num,Entire Graph,50,90000,1,1
+blondel,Original_block_num,Entire Graph,62,90000,1,1
+blondel,ANC,Entire Graph,0.8064516129032258,90000,1,1
+blondel,Scikit-learn NMI,Entire Graph,0.94065608846200466,90000,1,1
+blondel,Adjusted Rand Score,Entire Graph,0.8301027171820552,90000,1,1
+blondel,Lancichinetti NMI,Entire Graph,0.802726,90000,1,1
+blondel,0.5_precision,Entire Graph,0.9517628791573257,90000,1,2
+blondel,0.5_recall,Entire Graph,0.15786598674726482,90000,1,2
+blondel,0.6_precision,Entire Graph,0.9417129623520013,90000,1,2
+blondel,0.6_recall,Entire Graph,0.15468026552951758,90000,1,2
+blondel,0.7_precision,Entire Graph,0.9417129623520013,90000,1,2
+blondel,0.7_recall,Entire Graph,0.15468026552951758,90000,1,2
+blondel,0.8_precision,Entire Graph,0.9273190229580619,90000,1,2
+blondel,0.8_recall,Entire Graph,0.15147939219649872,90000,1,2
+blondel,0.9_precision,Entire Graph,0.9096155096761425,90000,1,2
+blondel,0.9_recall,Entire Graph,0.1481464675470527,90000,1,2
+blondel,1.0_precision,Entire Graph,0.38,90000,1,2
+blondel,1.0_recall,Entire Graph,0.06145222256827629,90000,1,2
+blondel,NLS,Entire Graph,0.89931873615873248,90000,1,2
+blondel,Block_size_median,Entire Graph,89.5,90000,1,2
+blondel,Sample_block_num,Entire Graph,50,90000,1,2
+blondel,Original_block_num,Entire Graph,62,90000,1,2
+blondel,ANC,Entire Graph,0.8064516129032258,90000,1,2
+blondel,Scikit-learn NMI,Entire Graph,0.94065608846200466,90000,1,2
+blondel,Adjusted Rand Score,Entire Graph,0.8301027171820552,90000,1,2
+blondel,Lancichinetti NMI,Entire Graph,0.802726,90000,1,2
+blondel,0.5_precision,Entire Graph,0.9722692218571971,90000,2,1
+blondel,0.5_recall,Entire Graph,0.15571663084603266,90000,2,1
+blondel,0.6_precision,Entire Graph,0.9722692218571971,90000,2,1
+blondel,0.6_recall,Entire Graph,0.15571663084603266,90000,2,1
+blondel,0.7_precision,Entire Graph,0.9478047878890759,90000,2,1
+blondel,0.7_recall,Entire Graph,0.14908657703978256,90000,2,1
+blondel,0.8_precision,Entire Graph,0.9478047878890759,90000,2,1
+blondel,0.8_recall,Entire Graph,0.14908657703978256,90000,2,1
+blondel,0.9_precision,Entire Graph,0.9168302002539684,90000,2,1
+blondel,0.9_recall,Entire Graph,0.14274432323735642,90000,2,1
+blondel,1.0_precision,Entire Graph,0.42592592592592593,90000,2,1
+blondel,1.0_recall,Entire Graph,0.05511952278337229,90000,2,1
+blondel,NLS,Entire Graph,0.85816120702774346,90000,2,1
+blondel,Block_size_median,Entire Graph,104.0,90000,2,1
+blondel,Sample_block_num,Entire Graph,54,90000,2,1
+blondel,Original_block_num,Entire Graph,62,90000,2,1
+blondel,ANC,Entire Graph,0.8709677419354839,90000,2,1
+blondel,Scikit-learn NMI,Entire Graph,0.95384207629559947,90000,2,1
+blondel,Adjusted Rand Score,Entire Graph,0.8851411202214431,90000,2,1
+blondel,Lancichinetti NMI,Entire Graph,0.758488,90000,2,1
+blondel,0.5_precision,Entire Graph,0.9722692218571971,90000,2,2
+blondel,0.5_recall,Entire Graph,0.15571663084603266,90000,2,2
+blondel,0.6_precision,Entire Graph,0.9722692218571971,90000,2,2
+blondel,0.6_recall,Entire Graph,0.15571663084603266,90000,2,2
+blondel,0.7_precision,Entire Graph,0.9478047878890759,90000,2,2
+blondel,0.7_recall,Entire Graph,0.14908657703978256,90000,2,2
+blondel,0.8_precision,Entire Graph,0.9478047878890759,90000,2,2
+blondel,0.8_recall,Entire Graph,0.14908657703978256,90000,2,2
+blondel,0.9_precision,Entire Graph,0.9168302002539684,90000,2,2
+blondel,0.9_recall,Entire Graph,0.14274432323735642,90000,2,2
+blondel,1.0_precision,Entire Graph,0.42592592592592593,90000,2,2
+blondel,1.0_recall,Entire Graph,0.05511952278337229,90000,2,2
+blondel,NLS,Entire Graph,0.85816120702774346,90000,2,2
+blondel,Block_size_median,Entire Graph,104.0,90000,2,2
+blondel,Sample_block_num,Entire Graph,54,90000,2,2
+blondel,Original_block_num,Entire Graph,62,90000,2,2
+blondel,ANC,Entire Graph,0.8709677419354839,90000,2,2
+blondel,Scikit-learn NMI,Entire Graph,0.95384207629559947,90000,2,2
+blondel,Adjusted Rand Score,Entire Graph,0.8851411202214431,90000,2,2
+blondel,Lancichinetti NMI,Entire Graph,0.758488,90000,2,2
+infomap,Modularity,Entire Graph,0.4077,90000,1,1
+infomap,Coverage,Entire Graph,0.4643,90000,1,1
+infomap,Conductance,Entire Graph,0.2156,90000,1,1
+infomap,Modularity,Entire Graph,0.4077,90000,1,2
+infomap,Coverage,Entire Graph,0.4643,90000,1,2
+infomap,Conductance,Entire Graph,0.2156,90000,1,2
+infomap,Modularity,Entire Graph,0.4046,90000,2,1
+infomap,Coverage,Entire Graph,0.4606,90000,2,1
+infomap,Conductance,Entire Graph,0.2022,90000,2,1
+infomap,Modularity,Entire Graph,0.4046,90000,2,2
+infomap,Coverage,Entire Graph,0.4606,90000,2,2
+infomap,Conductance,Entire Graph,0.2022,90000,2,2
+infomap,0.5_precision,Entire Graph,0.9347553455719434,90000,1,1
+infomap,0.5_recall,Entire Graph,0.19801740142284271,90000,1,1
+infomap,0.6_precision,Entire Graph,0.9347553455719434,90000,1,1
+infomap,0.6_recall,Entire Graph,0.19801740142284271,90000,1,1
+infomap,0.7_precision,Entire Graph,0.9347553455719434,90000,1,1
+infomap,0.7_recall,Entire Graph,0.19801740142284271,90000,1,1
+infomap,0.8_precision,Entire Graph,0.9347553455719434,90000,1,1
+infomap,0.8_recall,Entire Graph,0.19801740142284271,90000,1,1
+infomap,0.9_precision,Entire Graph,0.8270513357005528,90000,1,1
+infomap,0.9_recall,Entire Graph,0.17533096495045872,90000,1,1
+infomap,1.0_precision,Entire Graph,0.203125,90000,1,1
+infomap,1.0_recall,Entire Graph,0.04363340138837348,90000,1,1
+infomap,NLS,Entire Graph,0.92064874206885172,90000,1,1
+infomap,Block_size_median,Entire Graph,82.0,90000,1,1
+infomap,Sample_block_num,Entire Graph,64,90000,1,1
+infomap,Original_block_num,Entire Graph,62,90000,1,1
+infomap,ANC,Entire Graph,0.96875,90000,1,1
+infomap,Scikit-learn NMI,Entire Graph,0.98161315700582108,90000,1,1
+infomap,Adjusted Rand Score,Entire Graph,0.9815612632446717,90000,1,1
+infomap,Lancichinetti NMI,Entire Graph,0.825044,90000,1,1
+infomap,0.5_precision,Entire Graph,0.9347553455719434,90000,1,2
+infomap,0.5_recall,Entire Graph,0.19801740142284271,90000,1,2
+infomap,0.6_precision,Entire Graph,0.9347553455719434,90000,1,2
+infomap,0.6_recall,Entire Graph,0.19801740142284271,90000,1,2
+infomap,0.7_precision,Entire Graph,0.9347553455719434,90000,1,2
+infomap,0.7_recall,Entire Graph,0.19801740142284271,90000,1,2
+infomap,0.8_precision,Entire Graph,0.9347553455719434,90000,1,2
+infomap,0.8_recall,Entire Graph,0.19801740142284271,90000,1,2
+infomap,0.9_precision,Entire Graph,0.8270513357005528,90000,1,2
+infomap,0.9_recall,Entire Graph,0.17533096495045872,90000,1,2
+infomap,1.0_precision,Entire Graph,0.203125,90000,1,2
+infomap,1.0_recall,Entire Graph,0.04363340138837348,90000,1,2
+infomap,NLS,Entire Graph,0.92064874206885172,90000,1,2
+infomap,Block_size_median,Entire Graph,82.0,90000,1,2
+infomap,Sample_block_num,Entire Graph,64,90000,1,2
+infomap,Original_block_num,Entire Graph,62,90000,1,2
+infomap,ANC,Entire Graph,0.96875,90000,1,2
+infomap,Scikit-learn NMI,Entire Graph,0.98161315700582108,90000,1,2
+infomap,Adjusted Rand Score,Entire Graph,0.9815612632446717,90000,1,2
+infomap,Lancichinetti NMI,Entire Graph,0.825044,90000,1,2
+infomap,0.5_precision,Entire Graph,0.9602162122212058,90000,2,1
+infomap,0.5_recall,Entire Graph,0.19047842242041962,90000,2,1
+infomap,0.6_precision,Entire Graph,0.9602162122212058,90000,2,1
+infomap,0.6_recall,Entire Graph,0.19047842242041962,90000,2,1
+infomap,0.7_precision,Entire Graph,0.9602162122212058,90000,2,1
+infomap,0.7_recall,Entire Graph,0.19047842242041962,90000,2,1
+infomap,0.8_precision,Entire Graph,0.9481283001332937,90000,2,1
+infomap,0.8_recall,Entire Graph,0.18841540666648116,90000,2,1
+infomap,0.9_precision,Entire Graph,0.9085707335169037,90000,2,1
+infomap,0.9_recall,Entire Graph,0.17684940380897107,90000,2,1
+infomap,1.0_precision,Entire Graph,0.26153846153846155,90000,2,1
+infomap,1.0_recall,Entire Graph,0.04312256790977068,90000,2,1
+infomap,NLS,Entire Graph,0.88510680144737608,90000,2,1
+infomap,Block_size_median,Entire Graph,101.0,90000,2,1
+infomap,Sample_block_num,Entire Graph,65,90000,2,1
+infomap,Original_block_num,Entire Graph,62,90000,2,1
+infomap,ANC,Entire Graph,0.9538461538461538,90000,2,1
+infomap,Scikit-learn NMI,Entire Graph,0.97969041440040605,90000,2,1
+infomap,Adjusted Rand Score,Entire Graph,0.9766271582758389,90000,2,1
+infomap,Lancichinetti NMI,Entire Graph,0.78285,90000,2,1
+infomap,0.5_precision,Entire Graph,0.9602162122212058,90000,2,2
+infomap,0.5_recall,Entire Graph,0.19047842242041962,90000,2,2
+infomap,0.6_precision,Entire Graph,0.9602162122212058,90000,2,2
+infomap,0.6_recall,Entire Graph,0.19047842242041962,90000,2,2
+infomap,0.7_precision,Entire Graph,0.9602162122212058,90000,2,2
+infomap,0.7_recall,Entire Graph,0.19047842242041962,90000,2,2
+infomap,0.8_precision,Entire Graph,0.9481283001332937,90000,2,2
+infomap,0.8_recall,Entire Graph,0.18841540666648116,90000,2,2
+infomap,0.9_precision,Entire Graph,0.9085707335169037,90000,2,2
+infomap,0.9_recall,Entire Graph,0.17684940380897107,90000,2,2
+infomap,1.0_precision,Entire Graph,0.26153846153846155,90000,2,2
+infomap,1.0_recall,Entire Graph,0.04312256790977068,90000,2,2
+infomap,NLS,Entire Graph,0.88510680144737608,90000,2,2
+infomap,Block_size_median,Entire Graph,101.0,90000,2,2
+infomap,Sample_block_num,Entire Graph,65,90000,2,2
+infomap,Original_block_num,Entire Graph,62,90000,2,2
+infomap,ANC,Entire Graph,0.9538461538461538,90000,2,2
+infomap,Scikit-learn NMI,Entire Graph,0.97969041440040605,90000,2,2
+infomap,Adjusted Rand Score,Entire Graph,0.9766271582758389,90000,2,2
+infomap,Lancichinetti NMI,Entire Graph,0.78285,90000,2,2
+label_propagation,Modularity,Entire Graph,0.0000,90000,1,1
+label_propagation,Coverage,Entire Graph,1.0000,90000,1,1
+label_propagation,Conductance,Entire Graph,0.0,90000,1,1
+label_propagation,Modularity,Entire Graph,0.0000,90000,1,2
+label_propagation,Coverage,Entire Graph,1.0000,90000,1,2
+label_propagation,Conductance,Entire Graph,0.0,90000,1,2
+label_propagation,Modularity,Entire Graph,0.0000,90000,2,1
+label_propagation,Coverage,Entire Graph,1.0000,90000,2,1
+label_propagation,Conductance,Entire Graph,0.0,90000,2,1
+label_propagation,Modularity,Entire Graph,0.0000,90000,2,2
+label_propagation,Coverage,Entire Graph,1.0000,90000,2,2
+label_propagation,Conductance,Entire Graph,0.0,90000,2,2
+label_propagation,0.5_precision,Entire Graph,0.0,90000,1,1
+label_propagation,0.5_recall,Entire Graph,0.0,90000,1,1
+label_propagation,0.6_precision,Entire Graph,0.0,90000,1,1
+label_propagation,0.6_recall,Entire Graph,0.0,90000,1,1
+label_propagation,0.7_precision,Entire Graph,0.0,90000,1,1
+label_propagation,0.7_recall,Entire Graph,0.0,90000,1,1
+label_propagation,0.8_precision,Entire Graph,0.0,90000,1,1
+label_propagation,0.8_recall,Entire Graph,0.0,90000,1,1
+label_propagation,0.9_precision,Entire Graph,0.0,90000,1,1
+label_propagation,0.9_recall,Entire Graph,0.0,90000,1,1
+label_propagation,1.0_precision,Entire Graph,0.0,90000,1,1
+label_propagation,1.0_recall,Entire Graph,0.0,90000,1,1
+label_propagation,NLS,Entire Graph,0.92289638944359653,90000,1,1
+label_propagation,Block_size_median,Entire Graph,18000.0,90000,1,1
+label_propagation,Sample_block_num,Entire Graph,1,90000,1,1
+label_propagation,Original_block_num,Entire Graph,62,90000,1,1
+label_propagation,ANC,Entire Graph,0.016129032258064502,90000,1,1
+label_propagation,Scikit-learn NMI,Entire Graph,6.0194904616395206e-06,90000,1,1
+label_propagation,Adjusted Rand Score,Entire Graph,0.0,90000,1,1
+label_propagation,Lancichinetti NMI,Entire Graph,0.0,90000,1,1
+label_propagation,0.5_precision,Entire Graph,0.0,90000,1,2
+label_propagation,0.5_recall,Entire Graph,0.0,90000,1,2
+label_propagation,0.6_precision,Entire Graph,0.0,90000,1,2
+label_propagation,0.6_recall,Entire Graph,0.0,90000,1,2
+label_propagation,0.7_precision,Entire Graph,0.0,90000,1,2
+label_propagation,0.7_recall,Entire Graph,0.0,90000,1,2
+label_propagation,0.8_precision,Entire Graph,0.0,90000,1,2
+label_propagation,0.8_recall,Entire Graph,0.0,90000,1,2
+label_propagation,0.9_precision,Entire Graph,0.0,90000,1,2
+label_propagation,0.9_recall,Entire Graph,0.0,90000,1,2
+label_propagation,1.0_precision,Entire Graph,0.0,90000,1,2
+label_propagation,1.0_recall,Entire Graph,0.0,90000,1,2
+label_propagation,NLS,Entire Graph,0.92289638944359653,90000,1,2
+label_propagation,Block_size_median,Entire Graph,18000.0,90000,1,2
+label_propagation,Sample_block_num,Entire Graph,1,90000,1,2
+label_propagation,Original_block_num,Entire Graph,62,90000,1,2
+label_propagation,ANC,Entire Graph,0.016129032258064502,90000,1,2
+label_propagation,Scikit-learn NMI,Entire Graph,6.0194904616395206e-06,90000,1,2
+label_propagation,Adjusted Rand Score,Entire Graph,0.0,90000,1,2
+label_propagation,Lancichinetti NMI,Entire Graph,0.0,90000,1,2
+label_propagation,0.5_precision,Entire Graph,0.0,90000,2,1
+label_propagation,0.5_recall,Entire Graph,0.0,90000,2,1
+label_propagation,0.6_precision,Entire Graph,0.0,90000,2,1
+label_propagation,0.6_recall,Entire Graph,0.0,90000,2,1
+label_propagation,0.7_precision,Entire Graph,0.0,90000,2,1
+label_propagation,0.7_recall,Entire Graph,0.0,90000,2,1
+label_propagation,0.8_precision,Entire Graph,0.0,90000,2,1
+label_propagation,0.8_recall,Entire Graph,0.0,90000,2,1
+label_propagation,0.9_precision,Entire Graph,0.0,90000,2,1
+label_propagation,0.9_recall,Entire Graph,0.0,90000,2,1
+label_propagation,1.0_precision,Entire Graph,0.0,90000,2,1
+label_propagation,1.0_recall,Entire Graph,0.0,90000,2,1
+label_propagation,NLS,Entire Graph,0.88849863132291884,90000,2,1
+label_propagation,Block_size_median,Entire Graph,18000.0,90000,2,1
+label_propagation,Sample_block_num,Entire Graph,1,90000,2,1
+label_propagation,Original_block_num,Entire Graph,62,90000,2,1
+label_propagation,ANC,Entire Graph,0.016129032258064502,90000,2,1
+label_propagation,Scikit-learn NMI,Entire Graph,3.9464959078472361e-06,90000,2,1
+label_propagation,Adjusted Rand Score,Entire Graph,0.0,90000,2,1
+label_propagation,Lancichinetti NMI,Entire Graph,0.0,90000,2,1
+label_propagation,0.5_precision,Entire Graph,0.0,90000,2,2
+label_propagation,0.5_recall,Entire Graph,0.0,90000,2,2
+label_propagation,0.6_precision,Entire Graph,0.0,90000,2,2
+label_propagation,0.6_recall,Entire Graph,0.0,90000,2,2
+label_propagation,0.7_precision,Entire Graph,0.0,90000,2,2
+label_propagation,0.7_recall,Entire Graph,0.0,90000,2,2
+label_propagation,0.8_precision,Entire Graph,0.0,90000,2,2
+label_propagation,0.8_recall,Entire Graph,0.0,90000,2,2
+label_propagation,0.9_precision,Entire Graph,0.0,90000,2,2
+label_propagation,0.9_recall,Entire Graph,0.0,90000,2,2
+label_propagation,1.0_precision,Entire Graph,0.0,90000,2,2
+label_propagation,1.0_recall,Entire Graph,0.0,90000,2,2
+label_propagation,NLS,Entire Graph,0.88849863132291884,90000,2,2
+label_propagation,Block_size_median,Entire Graph,18000.0,90000,2,2
+label_propagation,Sample_block_num,Entire Graph,1,90000,2,2
+label_propagation,Original_block_num,Entire Graph,62,90000,2,2
+label_propagation,ANC,Entire Graph,0.016129032258064502,90000,2,2
+label_propagation,Scikit-learn NMI,Entire Graph,3.9464959078472361e-06,90000,2,2
+label_propagation,Adjusted Rand Score,Entire Graph,0.0,90000,2,2
+label_propagation,Lancichinetti NMI,Entire Graph,0.0,90000,2,2
+oslom,Modularity,Entire Graph,0.2907,90000,1,1
+oslom,Coverage,Entire Graph,0.3157,90000,1,1
+oslom,Conductance,Entire Graph,0.1827,90000,1,1
+oslom,Modularity,Entire Graph,0.2907,90000,1,2
+oslom,Coverage,Entire Graph,0.3157,90000,1,2
+oslom,Conductance,Entire Graph,0.1827,90000,1,2
+oslom,Modularity,Entire Graph,0.2997,90000,2,1
+oslom,Coverage,Entire Graph,0.3287,90000,2,1
+oslom,Conductance,Entire Graph,0.1819,90000,2,1
+oslom,Modularity,Entire Graph,0.2997,90000,2,2
+oslom,Coverage,Entire Graph,0.3287,90000,2,2
+oslom,Conductance,Entire Graph,0.1819,90000,2,2
+oslom,0.5_precision,Entire Graph,0.9377760132145326,90000,1,1
+oslom,0.5_recall,Entire Graph,0.17170261206080203,90000,1,1
+oslom,0.6_precision,Entire Graph,0.9377760132145326,90000,1,1
+oslom,0.6_recall,Entire Graph,0.17170261206080203,90000,1,1
+oslom,0.7_precision,Entire Graph,0.9310508670157022,90000,1,1
+oslom,0.7_recall,Entire Graph,0.17170261206080203,90000,1,1
+oslom,0.8_precision,Entire Graph,0.9310508670157022,90000,1,1
+oslom,0.8_recall,Entire Graph,0.17170261206080203,90000,1,1
+oslom,0.9_precision,Entire Graph,0.76686186600816,90000,1,1
+oslom,0.9_recall,Entire Graph,0.13062664472597632,90000,1,1
+oslom,1.0_precision,Entire Graph,0.05555555555555555,90000,1,1
+oslom,1.0_recall,Entire Graph,0.012354308140677424,90000,1,1
+oslom,NLS,Entire Graph,0.81269601381552181,90000,1,1
+oslom,Block_size_median,Entire Graph,106.5,90000,1,1
+oslom,Sample_block_num,Entire Graph,90,90000,1,1
+oslom,Original_block_num,Entire Graph,62,90000,1,1
+oslom,ANC,Entire Graph,0.6888888888888889,90000,1,1
+oslom,Scikit-learn NMI,Entire Graph,0.86464618444878927,90000,1,1
+oslom,Adjusted Rand Score,Entire Graph,0.6334805874643017,90000,1,1
+oslom,Lancichinetti NMI,Entire Graph,0.709305,90000,1,1
+oslom,0.5_precision,Entire Graph,0.9377760132145326,90000,1,2
+oslom,0.5_recall,Entire Graph,0.17170261206080203,90000,1,2
+oslom,0.6_precision,Entire Graph,0.9377760132145326,90000,1,2
+oslom,0.6_recall,Entire Graph,0.17170261206080203,90000,1,2
+oslom,0.7_precision,Entire Graph,0.9310508670157022,90000,1,2
+oslom,0.7_recall,Entire Graph,0.17170261206080203,90000,1,2
+oslom,0.8_precision,Entire Graph,0.9310508670157022,90000,1,2
+oslom,0.8_recall,Entire Graph,0.17170261206080203,90000,1,2
+oslom,0.9_precision,Entire Graph,0.76686186600816,90000,1,2
+oslom,0.9_recall,Entire Graph,0.13062664472597632,90000,1,2
+oslom,1.0_precision,Entire Graph,0.05555555555555555,90000,1,2
+oslom,1.0_recall,Entire Graph,0.012354308140677424,90000,1,2
+oslom,NLS,Entire Graph,0.81269601381552181,90000,1,2
+oslom,Block_size_median,Entire Graph,106.5,90000,1,2
+oslom,Sample_block_num,Entire Graph,90,90000,1,2
+oslom,Original_block_num,Entire Graph,62,90000,1,2
+oslom,ANC,Entire Graph,0.6888888888888889,90000,1,2
+oslom,Scikit-learn NMI,Entire Graph,0.86464618444878927,90000,1,2
+oslom,Adjusted Rand Score,Entire Graph,0.6334805874643017,90000,1,2
+oslom,Lancichinetti NMI,Entire Graph,0.709305,90000,1,2
+oslom,0.5_precision,Entire Graph,0.962477388797523,90000,2,1
+oslom,0.5_recall,Entire Graph,0.16485261767451923,90000,2,1
+oslom,0.6_precision,Entire Graph,0.962477388797523,90000,2,1
+oslom,0.6_recall,Entire Graph,0.16485261767451923,90000,2,1
+oslom,0.7_precision,Entire Graph,0.962477388797523,90000,2,1
+oslom,0.7_recall,Entire Graph,0.16485261767451923,90000,2,1
+oslom,0.8_precision,Entire Graph,0.962477388797523,90000,2,1
+oslom,0.8_recall,Entire Graph,0.16485261767451923,90000,2,1
+oslom,0.9_precision,Entire Graph,0.9345915889489468,90000,2,1
+oslom,0.9_recall,Entire Graph,0.15852910283354482,90000,2,1
+oslom,1.0_precision,Entire Graph,0.054945054945054944,90000,2,1
+oslom,1.0_recall,Entire Graph,0.011822518794448057,90000,2,1
+oslom,NLS,Entire Graph,0.77566279424290718,90000,2,1
+oslom,Block_size_median,Entire Graph,115.0,90000,2,1
+oslom,Sample_block_num,Entire Graph,91,90000,2,1
+oslom,Original_block_num,Entire Graph,62,90000,2,1
+oslom,ANC,Entire Graph,0.6813186813186813,90000,2,1
+oslom,Scikit-learn NMI,Entire Graph,0.89362809642966357,90000,2,1
+oslom,Adjusted Rand Score,Entire Graph,0.7290704936224909,90000,2,1
+oslom,Lancichinetti NMI,Entire Graph,0.719696,90000,2,1
+oslom,0.5_precision,Entire Graph,0.962477388797523,90000,2,2
+oslom,0.5_recall,Entire Graph,0.16485261767451923,90000,2,2
+oslom,0.6_precision,Entire Graph,0.962477388797523,90000,2,2
+oslom,0.6_recall,Entire Graph,0.16485261767451923,90000,2,2
+oslom,0.7_precision,Entire Graph,0.962477388797523,90000,2,2
+oslom,0.7_recall,Entire Graph,0.16485261767451923,90000,2,2
+oslom,0.8_precision,Entire Graph,0.962477388797523,90000,2,2
+oslom,0.8_recall,Entire Graph,0.16485261767451923,90000,2,2
+oslom,0.9_precision,Entire Graph,0.9345915889489468,90000,2,2
+oslom,0.9_recall,Entire Graph,0.15852910283354482,90000,2,2
+oslom,1.0_precision,Entire Graph,0.054945054945054944,90000,2,2
+oslom,1.0_recall,Entire Graph,0.011822518794448057,90000,2,2
+oslom,NLS,Entire Graph,0.77566279424290718,90000,2,2
+oslom,Block_size_median,Entire Graph,115.0,90000,2,2
+oslom,Sample_block_num,Entire Graph,91,90000,2,2
+oslom,Original_block_num,Entire Graph,62,90000,2,2
+oslom,ANC,Entire Graph,0.6813186813186813,90000,2,2
+oslom,Scikit-learn NMI,Entire Graph,0.89362809642966357,90000,2,2
+oslom,Adjusted Rand Score,Entire Graph,0.7290704936224909,90000,2,2
+oslom,Lancichinetti NMI,Entire Graph,0.719696,90000,2,2
+mod_opt,Modularity,Entire Graph,0.4074,90000,1,1
+mod_opt,Coverage,Entire Graph,0.4655,90000,1,1
+mod_opt,Conductance,Entire Graph,0.2657,90000,1,1
+mod_opt,Modularity,Entire Graph,0.4074,90000,1,2
+mod_opt,Coverage,Entire Graph,0.4655,90000,1,2
+mod_opt,Conductance,Entire Graph,0.2657,90000,1,2
+mod_opt,Modularity,Entire Graph,0.4044,90000,2,1
+mod_opt,Coverage,Entire Graph,0.4624,90000,2,1
+mod_opt,Conductance,Entire Graph,0.2703,90000,2,1
+mod_opt,Modularity,Entire Graph,0.4044,90000,2,2
+mod_opt,Coverage,Entire Graph,0.4624,90000,2,2
+mod_opt,Conductance,Entire Graph,0.2703,90000,2,2
+mod_opt,0.5_precision,Entire Graph,0.904641344690749,90000,1,1
+mod_opt,0.5_recall,Entire Graph,0.12392632390827174,90000,1,1
+mod_opt,0.6_precision,Entire Graph,0.8639457310443156,90000,1,1
+mod_opt,0.6_recall,Entire Graph,0.11662839387734304,90000,1,1
+mod_opt,0.7_precision,Entire Graph,0.8639457310443156,90000,1,1
+mod_opt,0.7_recall,Entire Graph,0.11662839387734304,90000,1,1
+mod_opt,0.8_precision,Entire Graph,0.8461572695058541,90000,1,1
+mod_opt,0.8_recall,Entire Graph,0.11313848631273259,90000,1,1
+mod_opt,0.9_precision,Entire Graph,0.7375670865410734,90000,1,1
+mod_opt,0.9_recall,Entire Graph,0.09698747578161729,90000,1,1
+mod_opt,1.0_precision,Entire Graph,0.2,90000,1,1
+mod_opt,1.0_recall,Entire Graph,0.025512761843694436,90000,1,1
+mod_opt,NLS,Entire Graph,0.90631303431902777,90000,1,1
+mod_opt,Block_size_median,Entire Graph,324.0,90000,1,1
+mod_opt,Sample_block_num,Entire Graph,40,90000,1,1
+mod_opt,Original_block_num,Entire Graph,62,90000,1,1
+mod_opt,ANC,Entire Graph,0.6451612903225806,90000,1,1
+mod_opt,Scikit-learn NMI,Entire Graph,0.96440168356225076,90000,1,1
+mod_opt,Adjusted Rand Score,Entire Graph,0.9550895660754539,90000,1,1
+mod_opt,Lancichinetti NMI,Entire Graph,0.744179,90000,1,1
+mod_opt,0.5_precision,Entire Graph,0.904641344690749,90000,1,2
+mod_opt,0.5_recall,Entire Graph,0.12392632390827174,90000,1,2
+mod_opt,0.6_precision,Entire Graph,0.8639457310443156,90000,1,2
+mod_opt,0.6_recall,Entire Graph,0.11662839387734304,90000,1,2
+mod_opt,0.7_precision,Entire Graph,0.8639457310443156,90000,1,2
+mod_opt,0.7_recall,Entire Graph,0.11662839387734304,90000,1,2
+mod_opt,0.8_precision,Entire Graph,0.8461572695058541,90000,1,2
+mod_opt,0.8_recall,Entire Graph,0.11313848631273259,90000,1,2
+mod_opt,0.9_precision,Entire Graph,0.7375670865410734,90000,1,2
+mod_opt,0.9_recall,Entire Graph,0.09698747578161729,90000,1,2
+mod_opt,1.0_precision,Entire Graph,0.2,90000,1,2
+mod_opt,1.0_recall,Entire Graph,0.025512761843694436,90000,1,2
+mod_opt,NLS,Entire Graph,0.90631303431902777,90000,1,2
+mod_opt,Block_size_median,Entire Graph,324.0,90000,1,2
+mod_opt,Sample_block_num,Entire Graph,40,90000,1,2
+mod_opt,Original_block_num,Entire Graph,62,90000,1,2
+mod_opt,ANC,Entire Graph,0.6451612903225806,90000,1,2
+mod_opt,Scikit-learn NMI,Entire Graph,0.96440168356225076,90000,1,2
+mod_opt,Adjusted Rand Score,Entire Graph,0.9550895660754539,90000,1,2
+mod_opt,Lancichinetti NMI,Entire Graph,0.744179,90000,1,2
+mod_opt,0.5_precision,Entire Graph,0.9521540849284644,90000,2,1
+mod_opt,0.5_recall,Entire Graph,0.1269343418596446,90000,2,1
+mod_opt,0.6_precision,Entire Graph,0.9389672717416511,90000,2,1
+mod_opt,0.6_recall,Entire Graph,0.12447398100671953,90000,2,1
+mod_opt,0.7_precision,Entire Graph,0.9231531366381759,90000,2,1
+mod_opt,0.7_recall,Entire Graph,0.12105693232432227,90000,2,1
+mod_opt,0.8_precision,Entire Graph,0.9231531366381759,90000,2,1
+mod_opt,0.8_recall,Entire Graph,0.12105693232432227,90000,2,1
+mod_opt,0.9_precision,Entire Graph,0.879731067324575,90000,2,1
+mod_opt,0.9_recall,Entire Graph,0.11448124513712775,90000,2,1
+mod_opt,1.0_precision,Entire Graph,0.1794871794871795,90000,2,1
+mod_opt,1.0_recall,Entire Graph,0.02388905316085779,90000,2,1
+mod_opt,NLS,Entire Graph,0.87105461954255226,90000,2,1
+mod_opt,Block_size_median,Entire Graph,340.0,90000,2,1
+mod_opt,Sample_block_num,Entire Graph,39,90000,2,1
+mod_opt,Original_block_num,Entire Graph,62,90000,2,1
+mod_opt,ANC,Entire Graph,0.6290322580645161,90000,2,1
+mod_opt,Scikit-learn NMI,Entire Graph,0.96072271067872916,90000,2,1
+mod_opt,Adjusted Rand Score,Entire Graph,0.9417238046595496,90000,2,1
+mod_opt,Lancichinetti NMI,Entire Graph,0.77697,90000,2,1
+mod_opt,0.5_precision,Entire Graph,0.9521540849284644,90000,2,2
+mod_opt,0.5_recall,Entire Graph,0.1269343418596446,90000,2,2
+mod_opt,0.6_precision,Entire Graph,0.9389672717416511,90000,2,2
+mod_opt,0.6_recall,Entire Graph,0.12447398100671953,90000,2,2
+mod_opt,0.7_precision,Entire Graph,0.9231531366381759,90000,2,2
+mod_opt,0.7_recall,Entire Graph,0.12105693232432227,90000,2,2
+mod_opt,0.8_precision,Entire Graph,0.9231531366381759,90000,2,2
+mod_opt,0.8_recall,Entire Graph,0.12105693232432227,90000,2,2
+mod_opt,0.9_precision,Entire Graph,0.879731067324575,90000,2,2
+mod_opt,0.9_recall,Entire Graph,0.11448124513712775,90000,2,2
+mod_opt,1.0_precision,Entire Graph,0.1794871794871795,90000,2,2
+mod_opt,1.0_recall,Entire Graph,0.02388905316085779,90000,2,2
+mod_opt,NLS,Entire Graph,0.87105461954255226,90000,2,2
+mod_opt,Block_size_median,Entire Graph,340.0,90000,2,2
+mod_opt,Sample_block_num,Entire Graph,39,90000,2,2
+mod_opt,Original_block_num,Entire Graph,62,90000,2,2
+mod_opt,ANC,Entire Graph,0.6290322580645161,90000,2,2
+mod_opt,Scikit-learn NMI,Entire Graph,0.96072271067872916,90000,2,2
+mod_opt,Adjusted Rand Score,Entire Graph,0.9417238046595496,90000,2,2
+mod_opt,Lancichinetti NMI,Entire Graph,0.77697,90000,2,2
