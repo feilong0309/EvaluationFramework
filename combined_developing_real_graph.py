@@ -33,7 +33,7 @@ def handleArgs():
     parser.add_argument("-sr", "--samplerate", default=0.7, type=float, help="the sample percentage of the entire graph", dest="samplerate")
     parser.add_argument("-delta","--deltavalue", nargs="+", default="0.5 0.6 0.7 0.8 0.9", help="the delta parameter(the default value is 0.5 0.6 0.7 0.8 0.9)", dest="delta")
     parser.add_argument("-sac","--sampling_condition", default="induced_random_edge", help="choose the sampling algorithm", dest="sampling_condition")
-    
+    parser.add_argument("-nc", "--numcluster", default = 10, type=int, help="the numbers of nodes", dest="numcluster")    
     global args
     args = parser.parse_args()
 
@@ -151,7 +151,7 @@ for n in args.n_list:
         #python sample.py -n 1000  -s 1 -e 3 -o generated_benches/n_1000/ --sample_percentage  0.3 0.5 0.7 --sampling_condition induced_random_edge
         command_list = []
         command_list.append('python')
-        command_list.append('sample.py')
+        command_list.append('sample_developing.py')
         command_list.append('-n')
         command_list.append(n)
         command_list.append('-s')
@@ -166,9 +166,12 @@ for n in args.n_list:
 #        command_list.append('0.5')
 #        command_list.append('0.7')
         command_list.append('--sampling_condition')
-        command_list.append('induced_random_edge')
+        command_list.append(args.sampling_condition)
+        command_list.append('--numcluster')
+        command_list.append(str(args.numcluster))
         subprocess.call(command_list)
-        ' '.join(command_list)
+        order_sample= ' '.join(command_list)
+        print order_sample
 
         print '\n' + ('*' * (61 + len(n)))
         print '* Completed clustering analysis "measure" workflow for N = ' + n + ' *'
