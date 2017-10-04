@@ -48,14 +48,14 @@ cluster.py
    -jar package: "ModularityOptimization.jar" @ http://www.ludowaltman.nl/slm/ModularityOptimizer.jar
    - Louvain method implements modularity maximization heuristic described in the paper [Fast unfolding of community hierarchies in large networks] by V. Blondel, J.-L. Guillaume, R. Lambiotte, E. Lefebvre. 
 
-measure.py
+measure_developing.py
    - The new \delta-precision, \delta-recall, ANC, NLS module 
    - python module igraph
    - python module sklearn
    - my fork of GMap "~/Documents/gmap/external/eba" @ https://github.com/scottemmons/gmap.git
    - Lancich. NMI "mutual3/" @ https://sites.google.com/site/andrealancichinetti/mutual3.tar.gz
 
-visualize.py
+visualize_developing.py
    - python module pandas
    - python module numpy
    - python module matplotlib (specifically matplotlib.pyplot)
@@ -64,12 +64,12 @@ Some example codes:
 ====================
 1)Generate the synthetic graphs and real graphs
 python generate_original.py -n 1000 --maxk 100 --mu 0.4 --minc 50 --maxc 100 -s 1 -e 3 -b binary_networks/ -o generated_benches/n_1000/
-python generate.py -n 1000 --maxk 100 --mu 0.4 --minc 50 --maxc 100 -s 1 -e 3 -b binary_networks/ -o generated_benches/n_1000/
-python generate.py -n 5000 --maxk 500 --mu 0.4 --minc 50 --maxc 500 -s 1 -e 3 -b binary_networks/ -o generated_benches/n_5000/
-python generate.py -n 10000 --maxk 1000 --mu 0.4 --minc 50 --maxc 1000 -s 1 -e 3 -b binary_networks/ -o generated_benches/n_10000/
-python generate.py -n 50000 --maxk 5000 --mu 0.4 --minc 50 --maxc 5000 -s 1 -e 3 -b binary_networks/ -o generated_benches/n_50000/
-python generate.py -n 100000 --maxk 10000 --mu 0.4 --minc 50 --maxc 10000 -s 1 -e 3 -b binary_networks/ -o generated_benches/n_100000/
-python generate.py -n 1000000 --maxk 100000 --mu 0.4 --minc 50 --maxc 100000 -s 1 -e 3 -b binary_networks/ -o generated_benches/n_1000000/
+python generate_original.py -n 1000 --maxk 100 --mu 0.4 --minc 50 --maxc 100 -s 1 -e 3 -b binary_networks/ -o generated_benches/n_1000/
+python generate_original.py -n 5000 --maxk 500 --mu 0.4 --minc 50 --maxc 500 -s 1 -e 3 -b binary_networks/ -o generated_benches/n_5000/
+python generate_original.py -n 10000 --maxk 1000 --mu 0.4 --minc 50 --maxc 1000 -s 1 -e 3 -b binary_networks/ -o generated_benches/n_10000/
+python generate_original.py -n 50000 --maxk 5000 --mu 0.4 --minc 50 --maxc 5000 -s 1 -e 3 -b binary_networks/ -o generated_benches/n_50000/
+python generate_original.py -n 100000 --maxk 10000 --mu 0.4 --minc 50 --maxc 10000 -s 1 -e 3 -b binary_networks/ -o generated_benches/n_100000/
+python generate_original.py -n 1000000 --maxk 100000 --mu 0.4 --minc 50 --maxc 100000 -s 1 -e 3 -b binary_networks/ -o generated_benches/n_1000000/
 python generate_real_graph.py -n 317080 --maxk 31708 --mu 0.5 --minc 50 --maxc 31708 -s 1 -e 1 -b /home/jzhang4/STHClusterAnalysis_real/Networks_with_ground_truth_communities/ -o generated_benches_u50_p_10_condition_induced_random_edge/n_317080/
 
 2)Sample on the original graph using different sampling algorithms
